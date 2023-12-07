@@ -1,0 +1,20 @@
+[
+    {
+        "command": "findImage",
+        "imagePath": "C:\\Users\\dogan\\Desktop\\test\\images\\1.png",
+        "action": "doubleClick"
+    },
+    {
+        "command": "findImage",
+        "imagePath": "C:\\Users\\dogan\\Desktop\\test\\images\\2.png",
+        "action": "doubleClick"
+    },
+    {
+        "command": "findImage",
+        "imagePath": "C:\\Users\\dogan\\Desktop\\test\\images\\3.png",
+        "action": "doubleClick"
+    },
+    {
+        "command": "openExcelAndWrite"
+    }
+]
