@@ -48,8 +48,10 @@ def find_and_double_click(icon_gray, icon_color, threshold):
 
 
 def start_screen_record():
-    agent_directory = os.path.dirname(os.path.realpath(__file__))
-    recordings_dir = os.path.join(agent_directory, "recordings")
+    current_directory = os.path.dirname(os.path.realpath(__file__))
+    parent_directory = os.path.dirname(current_directory)
+
+    recordings_dir = os.path.join(parent_directory, "recordings")
     os.makedirs(recordings_dir, exist_ok=True)
 
     global is_recording

@@ -136,3 +136,96 @@
 2023-12-07 15:08:25,887 - INFO - Received command: openExcelAndWrite
 2023-12-07 15:08:25,888 - INFO - Error opening Excel and writing data: [Errno 13] Permission denied: 'output.xlsx'
 2023-12-07 15:08:25,888 - INFO - Stopped screen recording.
+2023-12-07 15:18:34,074 - INFO - Connection from ('127.0.0.1', 52262) established.
+2023-12-07 15:18:34,074 - INFO - Received command: startScreenRecord
+2023-12-07 15:18:34,074 - INFO - Received command to start screen recording.
+2023-12-07 15:18:34,075 - INFO - Received command: findImage
+2023-12-07 15:18:34,078 - INFO - Started screen recording to C:\Users\dogan\Desktop\test\recordings\screen_record_2023-12-07_15-18-34.avi...
+2023-12-07 15:18:35,562 - INFO - Found and double-clicked the icon.
+2023-12-07 15:18:35,564 - INFO - Received command: findImage
+2023-12-07 15:18:37,057 - INFO - Found and double-clicked the icon.
+2023-12-07 15:18:37,059 - INFO - Received command: findImage
+2023-12-07 15:18:38,561 - INFO - Found and double-clicked the icon.
+2023-12-07 15:18:38,563 - INFO - Received command: stopScreenRecord
+2023-12-07 15:18:41,565 - INFO - Received command to stop screen recording.
+2023-12-07 15:18:41,566 - INFO - Received command: openExcelAndWrite
+2023-12-07 15:18:41,568 - INFO - Stopped screen recording.
+2023-12-07 15:18:41,582 - INFO - Opened Excel and wrote data successfully.
+2023-12-07 15:20:47,784 - INFO - Connection from ('127.0.0.1', 52283) established.
+2023-12-07 15:20:47,784 - INFO - Received command: startScreenRecord
+2023-12-07 15:20:47,785 - INFO - Received command to start screen recording.
+2023-12-07 15:20:47,786 - INFO - Received command: findImage
+2023-12-07 15:20:47,787 - INFO - Started screen recording to C:\Users\dogan\Desktop\test\recordings\screen_record_2023-12-07_15-20-47.avi...
+2023-12-07 15:20:49,291 - INFO - Found and double-clicked the icon.
+2023-12-07 15:20:49,294 - INFO - Received command: findImage
+2023-12-07 15:20:50,805 - INFO - Found and double-clicked the icon.
+2023-12-07 15:20:50,809 - INFO - Received command: findImage
+2023-12-07 15:20:52,323 - INFO - Found and double-clicked the icon.
+2023-12-07 15:20:52,326 - INFO - Received command: stopScreenRecord
+2023-12-07 15:20:55,354 - INFO - Received command to stop screen recording.
+2023-12-07 15:20:55,355 - INFO - Received command: openExcelAndWrite
+2023-12-07 15:20:55,357 - INFO - Error opening Excel and writing data: [Errno 13] Permission denied: 'output.xlsx'
+2023-12-07 15:20:55,425 - INFO - Stopped screen recording.
+2023-12-07 15:33:55,803 - INFO - Connection from ('127.0.0.1', 52382) established.
+2023-12-07 15:33:55,804 - INFO - Received command: findImage
+2023-12-07 15:33:57,270 - INFO - Found and double-clicked the icon.
+2023-12-07 23:21:29,934 - INFO - Connection from ('127.0.0.1', 54255) established.
+2023-12-07 23:21:29,935 - INFO - Received command: findImage
+2023-12-07 23:21:31,417 - INFO - Found and double-clicked the icon.
+2023-12-07 23:37:41,579 - INFO - Connection from ('127.0.0.1', 54813) established.
+2023-12-07 23:37:41,579 - INFO - Received command: startScreenRecord
+2023-12-07 23:37:41,580 - INFO - Received command to start screen recording.
+2023-12-07 23:37:41,581 - INFO - Received command: findImage
+2023-12-07 23:37:41,782 - INFO - Started screen recording to C:\Users\dogan\Desktop\test\recordings\screen_record_2023-12-07_23-37-41.avi...
+2023-12-07 23:37:41,783 - INFO - Error during screen recording: PyAutoGUI was unable to import pyscreeze. (This is likely because you're running a version of Python that Pillow (which pyscreeze depends on) doesn't support currently.) Please install this module to enable the function you tried to call.
+2023-12-07 23:37:42,584 - INFO - Error finding and double-clicking icon: PyAutoGUI was unable to import pyscreeze. (This is likely because you're running a version of Python that Pillow (which pyscreeze depends on) doesn't support currently.) Please install this module to enable the function you tried to call.
+2023-12-07 23:37:42,593 - INFO - Icon 'C:\Users\dogan\Desktop\test\images\1.png' not found on the screen.
+2023-12-07 23:37:42,594 - INFO - Received command: findImage
+2023-12-07 23:37:43,598 - INFO - Error finding and double-clicking icon: PyAutoGUI was unable to import pyscreeze. (This is likely because you're running a version of Python that Pillow (which pyscreeze depends on) doesn't support currently.) Please install this module to enable the function you tried to call.
+2023-12-07 23:37:43,599 - INFO - Icon 'C:\Users\dogan\Desktop\test\images\2.png' not found on the screen.
+2023-12-07 23:37:43,600 - INFO - Received command: findImage
+2023-12-07 23:37:44,606 - INFO - Error finding and double-clicking icon: PyAutoGUI was unable to import pyscreeze. (This is likely because you're running a version of Python that Pillow (which pyscreeze depends on) doesn't support currently.) Please install this module to enable the function you tried to call.
+2023-12-07 23:37:44,608 - INFO - Icon 'C:\Users\dogan\Desktop\test\images\3.png' not found on the screen.
+2023-12-07 23:37:44,609 - INFO - Received command: stopScreenRecord
+2023-12-07 23:37:47,611 - INFO - Received command to stop screen recording.
+2023-12-07 23:37:47,612 - INFO - Received command: openExcelAndWrite
+2023-12-07 23:37:47,643 - INFO - Opened Excel and wrote data successfully.
+2023-12-07 23:37:49,576 - INFO - Connection from ('127.0.0.1', 54815) established.
+2023-12-07 23:37:49,577 - INFO - Received command: startScreenRecord
+2023-12-07 23:37:49,577 - INFO - Received command to start screen recording.
+2023-12-07 23:37:49,578 - INFO - Received command: findImage
+2023-12-07 23:37:49,579 - INFO - Started screen recording to C:\Users\dogan\Desktop\test\recordings\screen_record_2023-12-07_23-37-49.avi...
+2023-12-07 23:37:49,579 - INFO - Error during screen recording: PyAutoGUI was unable to import pyscreeze. (This is likely because you're running a version of Python that Pillow (which pyscreeze depends on) doesn't support currently.) Please install this module to enable the function you tried to call.
+2023-12-07 23:37:50,579 - INFO - Error finding and double-clicking icon: PyAutoGUI was unable to import pyscreeze. (This is likely because you're running a version of Python that Pillow (which pyscreeze depends on) doesn't support currently.) Please install this module to enable the function you tried to call.
+2023-12-07 23:37:50,580 - INFO - Icon 'C:\Users\dogan\Desktop\test\images\1.png' not found on the screen.
+2023-12-07 23:37:50,580 - INFO - Received command: findImage
+2023-12-07 23:37:51,582 - INFO - Error finding and double-clicking icon: PyAutoGUI was unable to import pyscreeze. (This is likely because you're running a version of Python that Pillow (which pyscreeze depends on) doesn't support currently.) Please install this module to enable the function you tried to call.
+2023-12-07 23:37:51,582 - INFO - Icon 'C:\Users\dogan\Desktop\test\images\2.png' not found on the screen.
+2023-12-07 23:37:51,583 - INFO - Received command: findImage
+2023-12-07 23:37:52,585 - INFO - Error finding and double-clicking icon: PyAutoGUI was unable to import pyscreeze. (This is likely because you're running a version of Python that Pillow (which pyscreeze depends on) doesn't support currently.) Please install this module to enable the function you tried to call.
+2023-12-07 23:37:52,587 - INFO - Icon 'C:\Users\dogan\Desktop\test\images\3.png' not found on the screen.
+2023-12-07 23:37:52,587 - INFO - Received command: stopScreenRecord
+2023-12-07 23:37:55,589 - INFO - Received command to stop screen recording.
+2023-12-07 23:37:55,589 - INFO - Received command: openExcelAndWrite
+2023-12-07 23:37:55,593 - INFO - Opened Excel and wrote data successfully.
+2023-12-07 23:38:40,449 - INFO - Connection from ('127.0.0.1', 54819) established.
+2023-12-07 23:38:40,449 - INFO - Received command: startScreenRecord
+2023-12-07 23:38:40,450 - INFO - Received command to start screen recording.
+2023-12-07 23:38:40,450 - INFO - Received command: findImage
+2023-12-07 23:38:40,453 - INFO - Started screen recording to C:\Users\dogan\Desktop\test\recordings\screen_record_2023-12-07_23-38-40.avi...
+2023-12-07 23:38:41,948 - INFO - Found and double-clicked the icon.
+2023-12-07 23:38:41,950 - INFO - Received command: findImage
+2023-12-07 23:38:43,397 - INFO - Found and double-clicked the icon.
+2023-12-07 23:38:43,400 - INFO - Received command: findImage
+2023-12-07 23:38:44,882 - INFO - Found and double-clicked the icon.
+2023-12-07 23:38:44,886 - INFO - Received command: stopScreenRecord
+2023-12-07 23:38:47,887 - INFO - Received command to stop screen recording.
+2023-12-07 23:38:47,887 - INFO - Received command: openExcelAndWrite
+2023-12-07 23:38:47,894 - INFO - Opened Excel and wrote data successfully.
+2023-12-07 23:38:47,921 - INFO - Stopped screen recording.
+2023-12-08 00:08:56,485 - INFO - Connection from ('127.0.0.1', 55552) established.
+2023-12-08 00:08:56,485 - INFO - Received command: findImage
+2023-12-08 00:08:57,665 - INFO - Icon not found on the screen.
+2023-12-08 00:08:57,665 - INFO - Icon 'C:\Users\dogan\Desktop\test\images\4.png' not found on the screen.
+2023-12-08 00:08:57,665 - INFO - Received command: stop
+2023-12-08 00:08:57,665 - INFO - Received command to stop the listener.

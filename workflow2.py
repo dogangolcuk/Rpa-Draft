@@ -7,6 +7,9 @@ commands = [
         "command": "findImage",
         "imagePath": "C:\\Users\\dogan\\Desktop\\test\\images\\4.png",
         "action": "doubleClick"
+    },
+    {
+        "command": "stopServerAgent",
     }
 ]
 
