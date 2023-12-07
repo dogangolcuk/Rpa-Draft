@@ -1,4 +1,8 @@
-/dist
-/build
-/recordings
-/rpaenv
+dist
+build
+recordings
+rpaenv
+*.pyc
+*.pyo
+__pycache__/
+

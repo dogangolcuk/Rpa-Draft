@@ -1,9 +1,8 @@
-import socket
-import json
-from .excel_operations import open_excel_and_write
-from .screen_operations import handle_screen_record, stop_screen_record
-from .image_operations import process_image_commands
-from .logging_utils import log_message
+from common_imports import socket, json
+from libs.excel_operations import open_excel_and_write
+from libs.screen_operations import handle_screen_record, stop_screen_record
+from libs.image_operations import process_image_commands
+from libs.logging_utils import log_message
 
 
 def start_socket_listener():

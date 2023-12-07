@@ -33,3 +33,87 @@
 2023-12-08 00:24:43,736 - INFO - Found and double-clicked the icon.
 2023-12-08 00:24:43,738 - INFO - Received command: stopServerAgent
 2023-12-08 00:24:43,739 - INFO - Received command to stop the listener.
+2023-12-08 00:34:44,222 - INFO - Connection from ('127.0.0.1', 55970) established.
+2023-12-08 00:34:44,222 - INFO - Received command: findImage
+2023-12-08 00:34:45,396 - INFO - Icon not found on the screen.
+2023-12-08 00:34:45,400 - INFO - Icon 'C:\Users\dogan\Desktop\test\snaps\4.png' not found on the screen.
+2023-12-08 00:34:45,400 - INFO - Received command: stopServerAgent
+2023-12-08 00:34:45,400 - INFO - Received command to stop the listener.
+2023-12-08 00:43:24,891 - INFO - Connection from ('127.0.0.1', 56110) established.
+2023-12-08 00:43:24,892 - INFO - Received command: findImage
+2023-12-08 00:43:26,085 - INFO - Icon not found on the screen.
+2023-12-08 00:43:26,088 - INFO - Icon 'C:\Users\dogan\Desktop\test\snaps\4.png' not found on the screen.
+2023-12-08 00:43:26,089 - INFO - Received command: stopServerAgent
+2023-12-08 00:43:26,089 - INFO - Received command to stop the listener.
+2023-12-08 00:55:04,611 - INFO - Connection from ('127.0.0.1', 56427) established.
+2023-12-08 00:55:04,611 - INFO - Received command: findImage
+2023-12-08 00:55:05,789 - INFO - Icon not found on the screen.
+2023-12-08 00:55:05,791 - INFO - Icon 'C:\Users\dogan\Desktop\test\snaps\4.png' not found on the screen.
+2023-12-08 00:55:05,791 - INFO - Received command: stopServerAgent
+2023-12-08 00:55:05,792 - INFO - Received command to stop the listener.
+2023-12-08 00:56:05,037 - INFO - Connection from ('127.0.0.1', 56440) established.
+2023-12-08 00:56:05,037 - INFO - Received command: findImage
+2023-12-08 00:56:06,206 - INFO - Icon not found on the screen.
+2023-12-08 00:56:06,208 - INFO - Icon 'C:\Users\dogan\Desktop\test\snaps\4.png' not found on the screen.
+2023-12-08 00:56:06,209 - INFO - Received command: stopServerAgent
+2023-12-08 00:56:06,209 - INFO - Received command to stop the listener.
+2023-12-08 00:57:48,853 - INFO - Connection from ('127.0.0.1', 56497) established.
+2023-12-08 00:57:48,854 - INFO - Received command: findImage
+2023-12-08 00:57:50,031 - INFO - Icon not found on the screen.
+2023-12-08 00:57:50,033 - INFO - Icon 'C:\Users\dogan\Desktop\test\snaps\4.png' not found on the screen.
+2023-12-08 00:57:50,034 - INFO - Received command: stopServerAgent
+2023-12-08 00:57:50,034 - INFO - Received command to stop the listener.
+2023-12-08 00:58:15,617 - INFO - Connection from ('127.0.0.1', 56499) established.
+2023-12-08 00:58:15,617 - INFO - Received command: startScreenRecord
+2023-12-08 00:58:15,617 - INFO - Received command to start screen recording.
+2023-12-08 00:58:15,618 - INFO - Received command: findImage
+2023-12-08 00:58:15,621 - INFO - Started screen recording to C:\Users\dogan\Desktop\test\recordings\screen_record_2023-12-08_00-58-15.avi...
+2023-12-08 00:58:16,842 - INFO - Icon not found on the screen.
+2023-12-08 00:58:16,845 - INFO - Icon 'C:\Users\dogan\Desktop\test\snaps\1.png' not found on the screen.
+2023-12-08 00:58:16,845 - INFO - Received command: findImage
+2023-12-08 00:58:18,119 - INFO - Icon not found on the screen.
+2023-12-08 00:58:18,123 - INFO - Icon 'C:\Users\dogan\Desktop\test\snaps\2.png' not found on the screen.
+2023-12-08 00:58:18,124 - INFO - Received command: findImage
+2023-12-08 00:58:19,309 - INFO - Icon not found on the screen.
+2023-12-08 00:58:19,312 - INFO - Icon 'C:\Users\dogan\Desktop\test\snaps\3.png' not found on the screen.
+2023-12-08 00:58:19,312 - INFO - Received command: stopScreenRecord
+2023-12-08 00:58:22,315 - INFO - Received command to stop screen recording.
+2023-12-08 00:58:22,315 - INFO - Received command: openExcelAndWrite
+2023-12-08 00:58:22,323 - INFO - Opened Excel and wrote data successfully.
+2023-12-08 00:58:22,367 - INFO - Stopped screen recording.
+2023-12-08 00:58:36,649 - INFO - Connection from ('127.0.0.1', 56501) established.
+2023-12-08 00:58:36,649 - INFO - Received command: findImage
+2023-12-08 00:58:37,826 - INFO - Icon not found on the screen.
+2023-12-08 00:58:37,828 - INFO - Icon 'C:\Users\dogan\Desktop\test\snaps\4.png' not found on the screen.
+2023-12-08 00:58:37,829 - INFO - Received command: stopServerAgent
+2023-12-08 00:58:37,829 - INFO - Received command to stop the listener.
+2023-12-08 01:00:37,706 - INFO - Connection from ('127.0.0.1', 56570) established.
+2023-12-08 01:00:37,706 - INFO - Received command: findImage
+2023-12-08 01:00:38,922 - INFO - Icon not found on the screen.
+2023-12-08 01:00:38,925 - INFO - Icon 'C:\Users\dogan\Desktop\test\snaps\4.png' not found on the screen.
+2023-12-08 01:00:38,925 - INFO - Received command: stopServerAgent
+2023-12-08 01:00:38,925 - INFO - Received command to stop the listener.
+2023-12-08 01:00:53,888 - INFO - Connection from ('127.0.0.1', 56582) established.
+2023-12-08 01:00:53,888 - INFO - Received command: findImage
+2023-12-08 01:00:55,093 - INFO - Icon not found on the screen.
+2023-12-08 01:00:55,096 - INFO - Icon 'C:\Users\dogan\Desktop\test\snaps\4.png' not found on the screen.
+2023-12-08 01:00:55,096 - INFO - Received command: stopServerAgent
+2023-12-08 01:00:55,096 - INFO - Received command to stop the listener.
+2023-12-08 01:01:30,785 - INFO - Connection from ('127.0.0.1', 56601) established.
+2023-12-08 01:01:30,786 - INFO - Received command: findImage
+2023-12-08 01:01:31,963 - INFO - Icon not found on the screen.
+2023-12-08 01:01:31,965 - INFO - Icon 'C:\Users\dogan\Desktop\test\snaps\4.png' not found on the screen.
+2023-12-08 01:01:31,967 - INFO - Received command: stopServerAgent
+2023-12-08 01:01:31,967 - INFO - Received command to stop the listener.
+2023-12-08 01:04:58,229 - INFO - Connection from ('127.0.0.1', 56774) established.
+2023-12-08 01:04:58,230 - INFO - Received command: findImage
+2023-12-08 01:04:59,427 - INFO - Icon not found on the screen.
+2023-12-08 01:04:59,430 - INFO - Icon 'C:\Users\dogan\Desktop\test\snaps\4.png' not found on the screen.
+2023-12-08 01:04:59,430 - INFO - Received command: stopServerAgent
+2023-12-08 01:04:59,430 - INFO - Received command to stop the listener.
+2023-12-08 01:10:53,938 - INFO - Connection from ('127.0.0.1', 56946) established.
+2023-12-08 01:10:53,939 - INFO - Received command: findImage
+2023-12-08 01:10:55,131 - INFO - Icon not found on the screen.
+2023-12-08 01:10:55,134 - INFO - Icon 'C:\Users\dogan\Desktop\test\snaps\4.png' not found on the screen.
+2023-12-08 01:10:55,134 - INFO - Received command: stopServerAgent
+2023-12-08 01:10:55,135 - INFO - Received command to stop the listener.

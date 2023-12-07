@@ -1,7 +1,6 @@
-import cv2
-import time
-from .screen_operations import find_and_double_click
-from .logging_utils import log_message
+from common_imports import cv2, time
+from libs.screen_operations import find_and_double_click
+from libs.logging_utils import log_message
 
 
 def process_image_commands(cmd):

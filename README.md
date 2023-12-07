@@ -12,3 +12,15 @@
         > source rpaenv/bin/activate
 - Install requirements for development
     > pip install -r requirements.txt
+- Make requirements for production
+    > pip freeze > requirements.txt
+- List packages
+    > pip list
+- Check outdated packages
+  - > pip list --outdated
+  - > pip-check
+- Update packages
+  - > pip install -U pip
+  - > pip install -U -r requirements.txt
+- Run script
+  - > python3 main.py

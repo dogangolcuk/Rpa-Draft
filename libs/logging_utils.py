@@ -1,5 +1,6 @@
-import logging
-import os
+# import logging
+# import os
+from common_imports import os, logging
 
 logs_directory = 'logs'
 

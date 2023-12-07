@@ -1,5 +1,6 @@
-from openpyxl import Workbook
-from .logging_utils import log_message
+# from openpyxl import Workbook
+from common_imports import Workbook
+from libs.logging_utils import log_message
 
 
 def open_excel_and_write():
