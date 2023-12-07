@@ -1,6 +1,14 @@
 import logging
+import os
 
-logging.basicConfig(filename='rpa_agent.log', level=logging.INFO,
+logs_directory = 'logs'
+
+if not os.path.exists(logs_directory):
+    os.makedirs(logs_directory)
+
+log_file_path = os.path.join(logs_directory, 'rpa_agent.log')
+
+logging.basicConfig(filename=log_file_path, level=logging.INFO,
                     format='%(asctime)s - %(levelname)s - %(message)s')
 
 

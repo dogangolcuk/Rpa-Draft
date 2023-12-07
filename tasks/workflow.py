@@ -8,17 +8,17 @@ commands = [
     },
     {
         "command": "findImage",
-        "imagePath": "C:\\Users\\dogan\\Desktop\\test\\images\\1.png",
+        "imagePath": "C:\\Users\\dogan\\Desktop\\test\\snaps\\1.png",
         "action": "doubleClick"
     },
     {
         "command": "findImage",
-        "imagePath": "C:\\Users\\dogan\\Desktop\\test\\images\\2.png",
+        "imagePath": "C:\\Users\\dogan\\Desktop\\test\\snaps\\2.png",
         "action": "doubleClick"
     },
     {
         "command": "findImage",
-        "imagePath": "C:\\Users\\dogan\\Desktop\\test\\images\\3.png",
+        "imagePath": "C:\\Users\\dogan\\Desktop\\test\\snaps\\3.png",
         "action": "doubleClick"
     },
     {
