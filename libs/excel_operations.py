@@ -1,14 +1,19 @@
-# from openpyxl import Workbook
-from common_imports import Workbook
+from common_imports import pandas as pd
+from data_store import DataStore
 from libs.logging_utils import log_message
 
-
-def open_excel_and_write():
+def excel_to_pandas(cmd):
     try:
-        workbook = Workbook()
-        sheet = workbook.active
-        sheet['E5'] = "Data written from RPA script WITH PYTHON"
-        workbook.save('output.xlsx')
-        log_message("Opened Excel and wrote data successfully.")
+        with pd.ExcelFile(cmd["filePath"]) as xls:
+            df = pd.read_excel(xls)
+            # Process the DataFrame or perform any other operations here
+            # For example, writing to a data store
+            data_store = DataStore()
+            data_store.write_data(cmd["writeDataId"], df)
+            
+        # File automatically closes when the 'with' block is exited
+        data = data_store.read_data(cmd["writeDataId"])
+        print(data)
+        # return df  # You can return the DataFrame if needed
     except Exception as e:
-        log_message(f"Error opening Excel and writing data: {e}")
+        print(f"Error occurred: {e}")

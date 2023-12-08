@@ -150,3 +150,709 @@
 2023-12-08 09:32:12,596 - INFO - Found and double-clicked the icon.
 2023-12-08 09:32:12,599 - INFO - Received command: stopServerAgent
 2023-12-08 09:32:12,599 - INFO - Received command to stop the listener.
+2023-12-08 09:51:01,669 - INFO - Connection from ('127.0.0.1', 5881) established.
+2023-12-08 09:51:01,670 - INFO - Received command: startScreenRecord
+2023-12-08 09:51:01,670 - INFO - Error processing commands: 'findImage'
+2023-12-08 09:51:33,839 - INFO - Connection from ('127.0.0.1', 5887) established.
+2023-12-08 09:51:33,839 - INFO - Received command: stopServerAgent
+2023-12-08 09:51:33,839 - INFO - Error processing commands: 'findImage'
+2023-12-08 09:52:33,540 - INFO - Connection from ('127.0.0.1', 5916) established.
+2023-12-08 09:52:33,540 - INFO - Received command: stopServerAgent
+2023-12-08 09:52:33,540 - INFO - Error processing commands: 'findImage'
+2023-12-08 09:53:15,367 - INFO - Connection from ('127.0.0.1', 5922) established.
+2023-12-08 09:53:15,368 - INFO - Received command: stopServerAgent
+2023-12-08 09:53:15,368 - INFO - Received command to stop the listener.
+2023-12-08 09:53:27,664 - INFO - Connection from ('127.0.0.1', 5924) established.
+2023-12-08 09:53:27,664 - INFO - Received command: startScreenRecord
+2023-12-08 09:53:27,665 - INFO - Received command to start screen recording.
+2023-12-08 09:53:27,668 - INFO - Received command: excelToPandas
+2023-12-08 09:53:27,679 - INFO - Received command to stop the listener.
+2023-12-08 09:53:27,679 - INFO - Received command: stopScreenRecord
+2023-12-08 09:53:27,730 - INFO - Started screen recording to C:\Users\dogan\Desktop\test\recordings\screen_record_2023-12-08_09-53-27.avi...
+2023-12-08 09:53:30,680 - INFO - Received command to stop screen recording.
+2023-12-08 09:53:30,716 - INFO - Stopped screen recording.
+2023-12-08 10:22:01,359 - INFO - Connection from ('127.0.0.1', 6932) established.
+2023-12-08 10:22:01,360 - INFO - Received command: startScreenRecord
+2023-12-08 10:22:01,360 - INFO - Received command to start screen recording.
+2023-12-08 10:22:01,361 - INFO - Received command: excelToPandas
+2023-12-08 10:22:01,363 - INFO - Started screen recording to C:\Users\dogan\Desktop\test\recordings\screen_record_2023-12-08_10-22-01.avi...
+2023-12-08 10:22:01,398 - INFO - Received command to stop the listener.
+2023-12-08 10:22:01,398 - INFO - Received command: manipulateData
+2023-12-08 10:22:01,403 - INFO - Received command: stopScreenRecord
+2023-12-08 10:22:04,410 - INFO - Received command to stop screen recording.
+2023-12-08 10:22:04,484 - INFO - Stopped screen recording.
+2023-12-08 10:23:11,428 - INFO - Connection from ('127.0.0.1', 6957) established.
+2023-12-08 10:23:11,428 - INFO - Received command: startScreenRecord
+2023-12-08 10:23:11,428 - INFO - Received command to start screen recording.
+2023-12-08 10:23:11,429 - INFO - Received command: excelToPandas
+2023-12-08 10:23:11,431 - INFO - Started screen recording to C:\Users\dogan\Desktop\test\recordings\screen_record_2023-12-08_10-23-11.avi...
+2023-12-08 10:23:11,481 - INFO - Received command to stop the listener.
+2023-12-08 10:23:11,482 - INFO - Received command: manipulateData
+2023-12-08 10:23:11,482 - INFO - Received command: stopScreenRecord
+2023-12-08 10:23:14,483 - INFO - Received command to stop screen recording.
+2023-12-08 10:23:14,489 - INFO - Stopped screen recording.
+2023-12-08 10:47:01,048 - INFO - Connection from ('127.0.0.1', 7249) established.
+2023-12-08 10:47:01,048 - INFO - Received command: stopServerAgent
+2023-12-08 10:47:01,048 - INFO - Received command to stop the listener.
+2023-12-08 10:47:16,445 - INFO - Connection from ('127.0.0.1', 7253) established.
+2023-12-08 10:47:16,445 - INFO - Received command: startScreenRecord
+2023-12-08 10:47:16,446 - INFO - Received command to start screen recording.
+2023-12-08 10:47:16,446 - INFO - Received command: excelToPandas
+2023-12-08 10:47:16,449 - INFO - Started screen recording to C:\Users\dogan\Desktop\test\recordings\screen_record_2023-12-08_10-47-16.avi...
+2023-12-08 10:47:16,501 - INFO - Received command to convert C:\Users\dogan\Desktop\test\TestExcel.xlsx to Pandas DataFrame.
+2023-12-08 10:47:16,501 - INFO - Received command: manipulateData
+2023-12-08 10:47:16,501 - INFO - Received command: stopScreenRecord
+2023-12-08 10:47:19,519 - INFO - Received command to stop screen recording.
+2023-12-08 10:47:19,592 - INFO - Stopped screen recording.
+2023-12-08 11:53:41,521 - INFO - Connection from ('127.0.0.1', 8396) established.
+2023-12-08 11:53:41,522 - INFO - Received command: startScreenRecord
+2023-12-08 11:53:41,523 - INFO - Received command to start screen recording.
+2023-12-08 11:53:41,523 - INFO - Received command: excelToPandas
+2023-12-08 11:53:41,525 - INFO - Started screen recording to C:\Users\dogan\Desktop\test\recordings\screen_record_2023-12-08_11-53-41.avi...
+2023-12-08 11:53:41,568 - INFO - Received command to convert C:\Users\dogan\Desktop\test\TestExcel.xlsx to Pandas DataFrame.
+2023-12-08 11:53:41,568 - INFO - Received command: manipulateData
+2023-12-08 11:53:41,569 - INFO - Received command: stopScreenRecord
+2023-12-08 11:53:44,569 - INFO - Received command to stop screen recording.
+2023-12-08 11:53:44,622 - INFO - Stopped screen recording.
+2023-12-08 11:55:07,383 - INFO - Connection from ('127.0.0.1', 8493) established.
+2023-12-08 11:55:07,383 - INFO - Received command: stopServerAgent
+2023-12-08 11:55:07,383 - INFO - Received command to stop the listener.
+2023-12-08 11:55:16,335 - INFO - Connection from ('127.0.0.1', 8495) established.
+2023-12-08 11:55:16,335 - INFO - Received command: startScreenRecord
+2023-12-08 11:55:16,336 - INFO - Received command to start screen recording.
+2023-12-08 11:55:16,336 - INFO - Received command: excelToPandas
+2023-12-08 11:55:16,340 - INFO - Started screen recording to C:\Users\dogan\Desktop\test\recordings\screen_record_2023-12-08_11-55-16.avi...
+2023-12-08 11:55:16,378 - INFO - Received command to convert C:\Users\dogan\Desktop\test\TestExcel.xlsx to Pandas DataFrame.
+2023-12-08 11:55:16,378 - INFO - Received command: manipulateData
+2023-12-08 11:55:16,382 - INFO - Error processing commands: The truth value of a DataFrame is ambiguous. Use a.empty, a.bool(), a.item(), a.any() or a.all().
+2023-12-08 11:56:58,463 - INFO - Connection from ('127.0.0.1', 8544) established.
+2023-12-08 11:56:58,463 - INFO - Received command: stopServerAgent
+2023-12-08 11:56:58,464 - INFO - Received command to stop the listener.
+2023-12-08 11:57:06,337 - INFO - Connection from ('127.0.0.1', 8548) established.
+2023-12-08 11:57:06,338 - INFO - Received command: startScreenRecord
+2023-12-08 11:57:06,339 - INFO - Received command to start screen recording.
+2023-12-08 11:57:06,339 - INFO - Received command: excelToPandas
+2023-12-08 11:57:06,342 - INFO - Started screen recording to C:\Users\dogan\Desktop\test\recordings\screen_record_2023-12-08_11-57-06.avi...
+2023-12-08 11:57:06,393 - INFO - Received command to convert C:\Users\dogan\Desktop\test\TestExcel.xlsx to Pandas DataFrame.
+2023-12-08 11:57:06,394 - INFO - Received command: manipulateData
+2023-12-08 11:57:06,401 - INFO - Received command to manipulate data with ID: 1324234.
+2023-12-08 11:57:06,401 - INFO - Received command: stopScreenRecord
+2023-12-08 11:57:09,401 - INFO - Received command to stop screen recording.
+2023-12-08 11:57:09,458 - INFO - Stopped screen recording.
+2023-12-08 11:57:51,937 - INFO - Connection from ('127.0.0.1', 8564) established.
+2023-12-08 11:57:51,938 - INFO - Received command: stopServerAgent
+2023-12-08 11:57:51,938 - INFO - Received command to stop the listener.
+2023-12-08 11:57:59,066 - INFO - Connection from ('127.0.0.1', 8565) established.
+2023-12-08 11:57:59,066 - INFO - Received command: startScreenRecord
+2023-12-08 11:57:59,067 - INFO - Received command to start screen recording.
+2023-12-08 11:57:59,067 - INFO - Received command: excelToPandas
+2023-12-08 11:57:59,072 - INFO - Started screen recording to C:\Users\dogan\Desktop\test\recordings\screen_record_2023-12-08_11-57-59.avi...
+2023-12-08 11:57:59,123 - INFO - Received command to convert C:\Users\dogan\Desktop\test\TestExcel.xlsx to Pandas DataFrame.
+2023-12-08 11:57:59,123 - INFO - Received command: manipulateData
+2023-12-08 11:57:59,130 - INFO - Error processing commands: The truth value of a DataFrame is ambiguous. Use a.empty, a.bool(), a.item(), a.any() or a.all().
+2023-12-08 11:59:00,236 - INFO - Connection from ('127.0.0.1', 8586) established.
+2023-12-08 11:59:00,237 - INFO - Received command: stopServerAgent
+2023-12-08 11:59:00,237 - INFO - Received command to stop the listener.
+2023-12-08 11:59:07,978 - INFO - Connection from ('127.0.0.1', 8595) established.
+2023-12-08 11:59:07,980 - INFO - Received command: startScreenRecord
+2023-12-08 11:59:07,980 - INFO - Received command to start screen recording.
+2023-12-08 11:59:07,980 - INFO - Received command: excelToPandas
+2023-12-08 11:59:07,984 - INFO - Started screen recording to C:\Users\dogan\Desktop\test\recordings\screen_record_2023-12-08_11-59-07.avi...
+2023-12-08 11:59:08,036 - INFO - Received command to convert C:\Users\dogan\Desktop\test\TestExcel.xlsx to Pandas DataFrame.
+2023-12-08 11:59:08,036 - INFO - Received command: manipulateData
+2023-12-08 11:59:08,044 - INFO - Received command to manipulate data with ID: 1324234.
+2023-12-08 11:59:08,046 - INFO - Received command: stopScreenRecord
+2023-12-08 11:59:11,046 - INFO - Received command to stop screen recording.
+2023-12-08 11:59:11,088 - INFO - Stopped screen recording.
+2023-12-08 11:59:56,439 - INFO - Connection from ('127.0.0.1', 8614) established.
+2023-12-08 11:59:56,439 - INFO - Received command: stopServerAgent
+2023-12-08 11:59:56,439 - INFO - Received command to stop the listener.
+2023-12-08 12:00:05,077 - INFO - Connection from ('127.0.0.1', 8616) established.
+2023-12-08 12:00:05,078 - INFO - Received command: startScreenRecord
+2023-12-08 12:00:05,078 - INFO - Received command to start screen recording.
+2023-12-08 12:00:05,078 - INFO - Received command: excelToPandas
+2023-12-08 12:00:05,082 - INFO - Started screen recording to C:\Users\dogan\Desktop\test\recordings\screen_record_2023-12-08_12-00-05.avi...
+2023-12-08 12:00:05,137 - INFO - Received command to convert C:\Users\dogan\Desktop\test\TestExcel.xlsx to Pandas DataFrame.
+2023-12-08 12:00:05,137 - INFO - Received command: manipulateData
+2023-12-08 12:00:05,146 - INFO - Error processing commands: Must pass 2-d input. shape=(1, 3, 3)
+2023-12-08 12:02:15,082 - INFO - Connection from ('127.0.0.1', 8658) established.
+2023-12-08 12:02:15,083 - INFO - Received command: stopServerAgent
+2023-12-08 12:02:15,083 - INFO - Received command to stop the listener.
+2023-12-08 12:02:22,443 - INFO - Connection from ('127.0.0.1', 8661) established.
+2023-12-08 12:02:22,444 - INFO - Received command: startScreenRecord
+2023-12-08 12:02:22,444 - INFO - Received command to start screen recording.
+2023-12-08 12:02:22,445 - INFO - Received command: excelToPandas
+2023-12-08 12:02:22,450 - INFO - Started screen recording to C:\Users\dogan\Desktop\test\recordings\screen_record_2023-12-08_12-02-22.avi...
+2023-12-08 12:02:22,496 - INFO - Received command to convert C:\Users\dogan\Desktop\test\TestExcel.xlsx to Pandas DataFrame.
+2023-12-08 12:02:22,496 - INFO - Received command: manipulateData
+2023-12-08 12:02:22,506 - INFO - Error processing commands: [Errno 13] Permission denied: 'TestExcel.xlsx'
+2023-12-08 12:09:51,214 - INFO - Connection from ('127.0.0.1', 8802) established.
+2023-12-08 12:09:51,214 - INFO - Received command: stopServerAgent
+2023-12-08 12:09:51,214 - INFO - Received command to stop the listener.
+2023-12-08 12:09:57,533 - INFO - Connection from ('127.0.0.1', 8804) established.
+2023-12-08 12:09:57,534 - INFO - Received command: startScreenRecord
+2023-12-08 12:09:57,534 - INFO - Received command to start screen recording.
+2023-12-08 12:09:57,535 - INFO - Received command: excelToPandas
+2023-12-08 12:09:57,538 - INFO - Started screen recording to C:\Users\dogan\Desktop\test\recordings\screen_record_2023-12-08_12-09-57.avi...
+2023-12-08 12:09:57,584 - INFO - Received command to convert C:\Users\dogan\Desktop\test\TestExcel.xlsx to Pandas DataFrame.
+2023-12-08 12:09:57,584 - INFO - Received command: manipulateData
+2023-12-08 12:09:57,596 - INFO - Error processing commands: [Errno 13] Permission denied: 'C:\\Users\\dogan\\Desktop\\test\\TestExcel.xlsx'
+2023-12-08 12:10:54,955 - INFO - Connection from ('127.0.0.1', 8856) established.
+2023-12-08 12:10:54,956 - INFO - Received command: stopServerAgent
+2023-12-08 12:10:54,956 - INFO - Received command to stop the listener.
+2023-12-08 12:11:02,844 - INFO - Connection from ('127.0.0.1', 8858) established.
+2023-12-08 12:11:02,844 - INFO - Received command: startScreenRecord
+2023-12-08 12:11:02,845 - INFO - Received command to start screen recording.
+2023-12-08 12:11:02,845 - INFO - Received command: excelToPandas
+2023-12-08 12:11:02,849 - INFO - Started screen recording to C:\Users\dogan\Desktop\test\recordings\screen_record_2023-12-08_12-11-02.avi...
+2023-12-08 12:11:02,898 - INFO - Received command to convert C:\Users\dogan\Desktop\test\TestExcel.xlsx to Pandas DataFrame.
+2023-12-08 12:11:02,899 - INFO - Received command: manipulateData
+2023-12-08 12:11:02,909 - INFO - Error processing commands: [Errno 13] Permission denied: 'C:\\Users\\dogan\\Desktop\\test\\TestExcel.xlsx'
+2023-12-08 12:11:39,678 - INFO - Connection from ('127.0.0.1', 8864) established.
+2023-12-08 12:11:39,678 - INFO - Received command: startScreenRecord
+2023-12-08 12:11:39,678 - INFO - Received command to start screen recording.
+2023-12-08 12:11:39,679 - INFO - Received command: excelToPandas
+2023-12-08 12:11:39,695 - INFO - Received command to convert C:\Users\dogan\Desktop\test\TestExcel.xlsx to Pandas DataFrame.
+2023-12-08 12:11:39,695 - INFO - Received command: manipulateData
+2023-12-08 12:11:39,709 - INFO - Error processing commands: 'OpenpyxlWriter' object has no attribute 'save'
+2023-12-08 12:15:50,609 - INFO - Connection from ('127.0.0.1', 8915) established.
+2023-12-08 12:15:50,610 - INFO - Received command: stopServerAgent
+2023-12-08 12:15:50,610 - INFO - Received command to stop the listener.
+2023-12-08 12:15:59,358 - INFO - Connection from ('127.0.0.1', 8919) established.
+2023-12-08 12:15:59,358 - INFO - Received command: startScreenRecord
+2023-12-08 12:15:59,359 - INFO - Received command to start screen recording.
+2023-12-08 12:15:59,359 - INFO - Received command: excelToPandas
+2023-12-08 12:15:59,359 - INFO - Error processing commands: Excel file format cannot be determined, you must specify an engine manually.
+2023-12-08 12:15:59,363 - INFO - Started screen recording to C:\Users\dogan\Desktop\test\recordings\screen_record_2023-12-08_12-15-59.avi...
+2023-12-08 12:16:28,492 - INFO - Connection from ('127.0.0.1', 8923) established.
+2023-12-08 12:16:28,493 - INFO - Received command: stopServerAgent
+2023-12-08 12:16:28,493 - INFO - Received command to stop the listener.
+2023-12-08 12:28:43,647 - INFO - Connection from ('127.0.0.1', 9014) established.
+2023-12-08 12:28:43,647 - INFO - Received command: startScreenRecord
+2023-12-08 12:28:43,647 - INFO - Received command to start screen recording.
+2023-12-08 12:28:43,648 - INFO - Received command: excelToPandas
+2023-12-08 12:28:43,651 - INFO - Started screen recording to C:\Users\dogan\Desktop\test\recordings\screen_record_2023-12-08_12-28-43.avi...
+2023-12-08 12:28:43,694 - INFO - Received command to convert C:\Users\dogan\Desktop\test\TestExcel.xlsx to Pandas DataFrame.
+2023-12-08 12:28:43,694 - INFO - Received command: manipulateData
+2023-12-08 12:28:43,729 - INFO - Received command to manipulate data with ID: 1324234.
+2023-12-08 12:28:43,729 - INFO - Received command: stopScreenRecord
+2023-12-08 12:28:46,731 - INFO - Received command to stop screen recording.
+2023-12-08 12:28:46,746 - INFO - Stopped screen recording.
+2023-12-08 12:31:50,624 - INFO - Connection from ('127.0.0.1', 9055) established.
+2023-12-08 12:31:50,624 - INFO - Received command: stopServerAgent
+2023-12-08 12:31:50,625 - INFO - Received command to stop the listener.
+2023-12-08 12:32:43,500 - INFO - Connection from ('127.0.0.1', 9073) established.
+2023-12-08 12:32:43,501 - INFO - Received command: stopServerAgent
+2023-12-08 12:32:43,501 - INFO - Received command to stop the listener.
+2023-12-08 12:32:53,146 - INFO - Connection from ('127.0.0.1', 9074) established.
+2023-12-08 12:32:53,147 - INFO - Received command: startScreenRecord
+2023-12-08 12:32:53,147 - INFO - Received command to start screen recording.
+2023-12-08 12:32:53,147 - INFO - Received command: excelToPandas
+2023-12-08 12:32:53,151 - INFO - Started screen recording to C:\Users\dogan\Desktop\test\recordings\screen_record_2023-12-08_12-32-53.avi...
+2023-12-08 12:32:53,200 - INFO - Received command to convert C:\Users\dogan\Desktop\test\TestExcel.xlsx to Pandas DataFrame.
+2023-12-08 12:32:53,200 - INFO - Received command: manipulateData
+2023-12-08 12:32:53,209 - INFO - Error processing commands: File is not a zip file
+2023-12-08 12:34:52,918 - INFO - Connection from ('127.0.0.1', 9094) established.
+2023-12-08 12:34:52,919 - INFO - Received command: stopServerAgent
+2023-12-08 12:34:52,919 - INFO - Received command to stop the listener.
+2023-12-08 12:35:00,002 - INFO - Connection from ('127.0.0.1', 9095) established.
+2023-12-08 12:35:00,004 - INFO - Received command: startScreenRecord
+2023-12-08 12:35:00,004 - INFO - Received command to start screen recording.
+2023-12-08 12:35:00,005 - INFO - Received command: excelToPandas
+2023-12-08 12:35:00,008 - INFO - Started screen recording to C:\Users\dogan\Desktop\test\recordings\screen_record_2023-12-08_12-35-00.avi...
+2023-12-08 12:35:00,066 - INFO - Received command to convert C:\Users\dogan\Desktop\test\TestExcel.xlsx to Pandas DataFrame.
+2023-12-08 12:35:00,066 - INFO - Received command: manipulateData
+2023-12-08 12:35:00,076 - INFO - Error processing commands: File is not a zip file
+2023-12-08 12:40:09,754 - INFO - Connection from ('127.0.0.1', 9214) established.
+2023-12-08 12:40:09,755 - INFO - Received command: stopServerAgent
+2023-12-08 12:40:09,755 - INFO - Received command to stop the listener.
+2023-12-08 14:03:20,986 - INFO - Connection from ('127.0.0.1', 10027) established.
+2023-12-08 14:03:20,986 - INFO - Received command: startScreenRecord
+2023-12-08 14:03:20,986 - INFO - Received command to start screen recording.
+2023-12-08 14:03:20,987 - INFO - Received command: excelToPandas
+2023-12-08 14:03:20,998 - INFO - Received command to convert C:\Users\dogan\Desktop\test\TestExcel.xlsx to Pandas DataFrame.
+2023-12-08 14:03:20,998 - INFO - Received command: manipulateData
+2023-12-08 14:03:21,005 - INFO - Error processing commands: File is not a zip file
+2023-12-08 14:03:21,060 - INFO - Started screen recording to C:\Users\dogan\Desktop\test\recordings\screen_record_2023-12-08_14-03-20.avi...
+2023-12-08 14:07:06,021 - INFO - Connection from ('127.0.0.1', 10085) established.
+2023-12-08 14:07:06,023 - INFO - Received command: stopServerAgent
+2023-12-08 14:07:06,023 - INFO - Received command to stop the listener.
+2023-12-08 14:07:38,051 - INFO - Connection from ('127.0.0.1', 10096) established.
+2023-12-08 14:07:38,052 - INFO - Received command: startScreenRecord
+2023-12-08 14:07:38,052 - INFO - Received command to start screen recording.
+2023-12-08 14:07:38,053 - INFO - Received command: excelToPandas
+2023-12-08 14:07:38,056 - INFO - Started screen recording to C:\Users\dogan\Desktop\test\recordings\screen_record_2023-12-08_14-07-38.avi...
+2023-12-08 14:07:38,105 - INFO - Received command to convert C:\Users\dogan\Desktop\test\TestExcel.xlsx to Pandas DataFrame.
+2023-12-08 14:07:38,106 - INFO - Received command: manipulateData
+2023-12-08 14:07:38,106 - INFO - Error processing commands: 'dict' object has no attribute 'empty'
+2023-12-08 14:09:15,553 - INFO - Connection from ('127.0.0.1', 10138) established.
+2023-12-08 14:09:15,554 - INFO - Received command: stopServerAgent
+2023-12-08 14:09:15,554 - INFO - Received command to stop the listener.
+2023-12-08 14:09:28,158 - INFO - Connection from ('127.0.0.1', 10141) established.
+2023-12-08 14:09:28,158 - INFO - Received command: startScreenRecord
+2023-12-08 14:09:28,159 - INFO - Received command to start screen recording.
+2023-12-08 14:09:28,159 - INFO - Received command: excelToPandas
+2023-12-08 14:09:28,162 - INFO - Started screen recording to C:\Users\dogan\Desktop\test\recordings\screen_record_2023-12-08_14-09-28.avi...
+2023-12-08 14:09:28,201 - INFO - Received command to convert C:\Users\dogan\Desktop\test\TestExcel.xlsx to Pandas DataFrame.
+2023-12-08 14:09:28,201 - INFO - Received command: manipulateData
+2023-12-08 14:09:28,209 - INFO - Error processing commands: File is not a zip file
+2023-12-08 14:09:34,952 - INFO - Connection from ('127.0.0.1', 10142) established.
+2023-12-08 14:09:34,952 - INFO - Received command: stopServerAgent
+2023-12-08 14:09:34,952 - INFO - Received command to stop the listener.
+2023-12-08 14:10:26,973 - INFO - Connection from ('127.0.0.1', 10152) established.
+2023-12-08 14:10:26,974 - INFO - Received command: startScreenRecord
+2023-12-08 14:10:26,974 - INFO - Received command to start screen recording.
+2023-12-08 14:10:26,975 - INFO - Received command: excelToPandas
+2023-12-08 14:10:26,977 - INFO - Started screen recording to C:\Users\dogan\Desktop\test\recordings\screen_record_2023-12-08_14-10-26.avi...
+2023-12-08 14:10:27,032 - INFO - Received command to convert C:\Users\dogan\Desktop\test\TestExcel.xlsx to Pandas DataFrame.
+2023-12-08 14:10:27,032 - INFO - Received command: manipulateData
+2023-12-08 14:10:27,042 - INFO - Received command to manipulate data with ID: 1324234.
+2023-12-08 14:10:27,042 - INFO - Received command: stopScreenRecord
+2023-12-08 14:10:30,043 - INFO - Received command to stop screen recording.
+2023-12-08 14:10:30,082 - INFO - Stopped screen recording.
+2023-12-08 14:13:11,063 - INFO - Connection from ('127.0.0.1', 10213) established.
+2023-12-08 14:13:11,063 - INFO - Received command: stopServerAgent
+2023-12-08 14:13:11,063 - INFO - Received command to stop the listener.
+2023-12-08 14:14:07,361 - INFO - Connection from ('127.0.0.1', 10226) established.
+2023-12-08 14:14:07,362 - INFO - Received command: startScreenRecord
+2023-12-08 14:14:07,362 - INFO - Received command to start screen recording.
+2023-12-08 14:14:07,363 - INFO - Received command: excelToPandas
+2023-12-08 14:14:07,369 - INFO - Started screen recording to C:\Users\dogan\Desktop\test\recordings\screen_record_2023-12-08_14-14-07.avi...
+2023-12-08 14:14:07,416 - INFO - Received command to convert C:\Users\dogan\Desktop\test\TestExcel.xlsx to Pandas DataFrame.
+2023-12-08 14:14:07,416 - INFO - Received command: manipulateData
+2023-12-08 14:14:07,428 - INFO - Received command to manipulate data with ID: 1324234.
+2023-12-08 14:14:07,429 - INFO - Received command: stopScreenRecord
+2023-12-08 14:14:10,429 - INFO - Received command to stop screen recording.
+2023-12-08 14:14:10,475 - INFO - Stopped screen recording.
+2023-12-08 14:14:26,798 - INFO - Connection from ('127.0.0.1', 10248) established.
+2023-12-08 14:14:26,799 - INFO - Received command: stopServerAgent
+2023-12-08 14:14:26,799 - INFO - Received command to stop the listener.
+2023-12-08 14:14:34,912 - INFO - Connection from ('127.0.0.1', 10249) established.
+2023-12-08 14:14:34,913 - INFO - Received command: startScreenRecord
+2023-12-08 14:14:34,913 - INFO - Received command to start screen recording.
+2023-12-08 14:14:34,913 - INFO - Received command: excelToPandas
+2023-12-08 14:14:34,917 - INFO - Started screen recording to C:\Users\dogan\Desktop\test\recordings\screen_record_2023-12-08_14-14-34.avi...
+2023-12-08 14:14:34,955 - INFO - Received command to convert C:\Users\dogan\Desktop\test\TestExcel.xlsx to Pandas DataFrame.
+2023-12-08 14:14:34,956 - INFO - Received command: manipulateData
+2023-12-08 14:14:34,964 - INFO - Error processing commands: File is not a zip file
+2023-12-08 14:14:45,906 - INFO - Connection from ('127.0.0.1', 10251) established.
+2023-12-08 14:14:45,906 - INFO - Received command: stopServerAgent
+2023-12-08 14:14:45,907 - INFO - Received command to stop the listener.
+2023-12-08 14:22:33,798 - INFO - Connection from ('127.0.0.1', 10385) established.
+2023-12-08 14:22:33,799 - INFO - Received command: startScreenRecord
+2023-12-08 14:22:33,799 - INFO - Received command to start screen recording.
+2023-12-08 14:22:33,800 - INFO - Received command: excelToPandas
+2023-12-08 14:22:33,802 - INFO - Started screen recording to C:\Users\dogan\Desktop\test\recordings\screen_record_2023-12-08_14-22-33.avi...
+2023-12-08 14:22:33,857 - INFO - Received command to convert C:\Users\dogan\Desktop\test\TestExcel.xlsx to Pandas DataFrame.
+2023-12-08 14:22:33,858 - INFO - Received command: manipulateData
+2023-12-08 14:22:33,867 - INFO - Error processing commands: File is not a zip file
+2023-12-08 14:22:51,863 - INFO - Connection from ('127.0.0.1', 10386) established.
+2023-12-08 14:22:51,865 - INFO - Received command: stopServerAgent
+2023-12-08 14:22:51,865 - INFO - Received command to stop the listener.
+2023-12-08 14:23:37,088 - INFO - Connection from ('127.0.0.1', 10397) established.
+2023-12-08 14:23:37,088 - INFO - Received command: startScreenRecord
+2023-12-08 14:23:37,089 - INFO - Received command to start screen recording.
+2023-12-08 14:23:37,089 - INFO - Received command: excelToPandas
+2023-12-08 14:23:37,093 - INFO - Started screen recording to C:\Users\dogan\Desktop\test\recordings\screen_record_2023-12-08_14-23-37.avi...
+2023-12-08 14:23:37,136 - INFO - Received command to convert C:\Users\dogan\Desktop\test\TestExcel.xlsx to Pandas DataFrame.
+2023-12-08 14:23:37,136 - INFO - Received command: manipulateData
+2023-12-08 14:23:37,147 - INFO - Error processing commands: File is not a zip file
+2023-12-08 14:23:49,139 - INFO - Connection from ('127.0.0.1', 10398) established.
+2023-12-08 14:23:49,139 - INFO - Received command: stopServerAgent
+2023-12-08 14:23:49,139 - INFO - Received command to stop the listener.
+2023-12-08 14:24:14,474 - INFO - Connection from ('127.0.0.1', 10411) established.
+2023-12-08 14:24:14,474 - INFO - Received command: startScreenRecord
+2023-12-08 14:24:14,474 - INFO - Received command to start screen recording.
+2023-12-08 14:24:14,475 - INFO - Received command: excelToPandas
+2023-12-08 14:24:14,476 - INFO - Received command to convert C:\Users\dogan\Desktop\test\TestExcel.xlsx to Pandas DataFrame.
+2023-12-08 14:24:14,476 - INFO - Received command: manipulateData
+2023-12-08 14:24:14,476 - INFO - Received command to manipulate data with ID: 1324234.
+2023-12-08 14:24:14,476 - INFO - Received command: stopScreenRecord
+2023-12-08 14:24:14,479 - INFO - Started screen recording to C:\Users\dogan\Desktop\test\recordings\screen_record_2023-12-08_14-24-14.avi...
+2023-12-08 14:24:17,486 - INFO - Received command to stop screen recording.
+2023-12-08 14:24:17,556 - INFO - Stopped screen recording.
+2023-12-08 14:24:57,903 - INFO - Connection from ('127.0.0.1', 10427) established.
+2023-12-08 14:24:57,903 - INFO - Received command: startScreenRecord
+2023-12-08 14:24:57,904 - INFO - Received command to start screen recording.
+2023-12-08 14:24:57,904 - INFO - Received command: excelToPandas
+2023-12-08 14:24:57,906 - INFO - Started screen recording to C:\Users\dogan\Desktop\test\recordings\screen_record_2023-12-08_14-24-57.avi...
+2023-12-08 14:24:57,961 - INFO - Received command to convert C:\Users\dogan\Desktop\test\TestExcel.xlsx to Pandas DataFrame.
+2023-12-08 14:24:57,961 - INFO - Received command: manipulateData
+2023-12-08 14:24:57,970 - INFO - Received command to manipulate data with ID: 1324234.
+2023-12-08 14:24:57,970 - INFO - Received command: stopScreenRecord
+2023-12-08 14:25:00,972 - INFO - Received command to stop screen recording.
+2023-12-08 14:25:01,018 - INFO - Stopped screen recording.
+2023-12-08 14:25:16,398 - INFO - Connection from ('127.0.0.1', 10431) established.
+2023-12-08 14:25:16,398 - INFO - Received command: startScreenRecord
+2023-12-08 14:25:16,398 - INFO - Received command to start screen recording.
+2023-12-08 14:25:16,399 - INFO - Received command: excelToPandas
+2023-12-08 14:25:16,400 - INFO - Started screen recording to C:\Users\dogan\Desktop\test\recordings\screen_record_2023-12-08_14-25-16.avi...
+2023-12-08 14:25:16,451 - INFO - Received command to convert C:\Users\dogan\Desktop\test\TestExcel.xlsx to Pandas DataFrame.
+2023-12-08 14:25:16,451 - INFO - Received command: manipulateData
+2023-12-08 14:25:16,461 - INFO - Received command to manipulate data with ID: 1324234.
+2023-12-08 14:25:16,461 - INFO - Received command: stopScreenRecord
+2023-12-08 14:25:19,462 - INFO - Received command to stop screen recording.
+2023-12-08 14:25:19,502 - INFO - Stopped screen recording.
+2023-12-08 14:25:21,885 - INFO - Connection from ('127.0.0.1', 10434) established.
+2023-12-08 14:25:21,885 - INFO - Received command: startScreenRecord
+2023-12-08 14:25:21,885 - INFO - Received command to start screen recording.
+2023-12-08 14:25:21,886 - INFO - Received command: excelToPandas
+2023-12-08 14:25:21,887 - INFO - Started screen recording to C:\Users\dogan\Desktop\test\recordings\screen_record_2023-12-08_14-25-21.avi...
+2023-12-08 14:25:21,929 - INFO - Received command to convert C:\Users\dogan\Desktop\test\TestExcel.xlsx to Pandas DataFrame.
+2023-12-08 14:25:21,930 - INFO - Received command: manipulateData
+2023-12-08 14:25:21,941 - INFO - Received command to manipulate data with ID: 1324234.
+2023-12-08 14:25:21,941 - INFO - Received command: stopScreenRecord
+2023-12-08 14:25:24,942 - INFO - Received command to stop screen recording.
+2023-12-08 14:25:24,985 - INFO - Stopped screen recording.
+2023-12-08 14:25:26,297 - INFO - Connection from ('127.0.0.1', 10435) established.
+2023-12-08 14:25:26,297 - INFO - Received command: startScreenRecord
+2023-12-08 14:25:26,298 - INFO - Received command to start screen recording.
+2023-12-08 14:25:26,298 - INFO - Received command: excelToPandas
+2023-12-08 14:25:26,300 - INFO - Started screen recording to C:\Users\dogan\Desktop\test\recordings\screen_record_2023-12-08_14-25-26.avi...
+2023-12-08 14:25:26,345 - INFO - Received command to convert C:\Users\dogan\Desktop\test\TestExcel.xlsx to Pandas DataFrame.
+2023-12-08 14:25:26,346 - INFO - Received command: manipulateData
+2023-12-08 14:25:26,355 - INFO - Received command to manipulate data with ID: 1324234.
+2023-12-08 14:25:26,355 - INFO - Received command: stopScreenRecord
+2023-12-08 14:25:29,383 - INFO - Received command to stop screen recording.
+2023-12-08 14:25:29,453 - INFO - Stopped screen recording.
+2023-12-08 14:25:30,599 - INFO - Connection from ('127.0.0.1', 10436) established.
+2023-12-08 14:25:30,600 - INFO - Received command: startScreenRecord
+2023-12-08 14:25:30,600 - INFO - Received command to start screen recording.
+2023-12-08 14:25:30,600 - INFO - Received command: excelToPandas
+2023-12-08 14:25:30,602 - INFO - Started screen recording to C:\Users\dogan\Desktop\test\recordings\screen_record_2023-12-08_14-25-30.avi...
+2023-12-08 14:25:30,644 - INFO - Received command to convert C:\Users\dogan\Desktop\test\TestExcel.xlsx to Pandas DataFrame.
+2023-12-08 14:25:30,644 - INFO - Received command: manipulateData
+2023-12-08 14:25:30,655 - INFO - Received command to manipulate data with ID: 1324234.
+2023-12-08 14:25:30,656 - INFO - Received command: stopScreenRecord
+2023-12-08 14:25:33,657 - INFO - Received command to stop screen recording.
+2023-12-08 14:25:33,667 - INFO - Stopped screen recording.
+2023-12-08 14:28:43,832 - INFO - Connection from ('127.0.0.1', 10454) established.
+2023-12-08 14:28:43,832 - INFO - Received command: startScreenRecord
+2023-12-08 14:28:43,833 - INFO - Received command to start screen recording.
+2023-12-08 14:28:43,833 - INFO - Received command: excelToPandas
+2023-12-08 14:28:43,835 - INFO - Started screen recording to C:\Users\dogan\Desktop\test\recordings\screen_record_2023-12-08_14-28-43.avi...
+2023-12-08 14:28:43,871 - INFO - Received command to convert C:\Users\dogan\Desktop\test\TestExcel.xlsx to Pandas DataFrame.
+2023-12-08 14:28:43,871 - INFO - Received command: manipulateData
+2023-12-08 14:28:43,879 - INFO - Received command to manipulate data with ID: 1324234.
+2023-12-08 14:28:43,879 - INFO - Received command: stopScreenRecord
+2023-12-08 14:28:46,912 - INFO - Received command to stop screen recording.
+2023-12-08 14:28:46,984 - INFO - Stopped screen recording.
+2023-12-08 14:30:20,043 - INFO - Connection from ('127.0.0.1', 10516) established.
+2023-12-08 14:30:20,043 - INFO - Received command: stopServerAgent
+2023-12-08 14:30:20,043 - INFO - Received command to stop the listener.
+2023-12-08 14:30:27,918 - INFO - Connection from ('127.0.0.1', 10517) established.
+2023-12-08 14:30:27,918 - INFO - Received command: startScreenRecord
+2023-12-08 14:30:27,919 - INFO - Received command to start screen recording.
+2023-12-08 14:30:27,919 - INFO - Received command: excelToPandas
+2023-12-08 14:30:27,923 - INFO - Started screen recording to C:\Users\dogan\Desktop\test\recordings\screen_record_2023-12-08_14-30-27.avi...
+2023-12-08 14:30:27,971 - INFO - Received command to convert C:\Users\dogan\Desktop\test\TestExcel.xlsx to Pandas DataFrame.
+2023-12-08 14:30:27,972 - INFO - Received command: manipulateData
+2023-12-08 14:30:27,981 - INFO - Received command to manipulate data with ID: 1324234.
+2023-12-08 14:30:27,981 - INFO - Received command: stopScreenRecord
+2023-12-08 14:30:30,981 - INFO - Received command to stop screen recording.
+2023-12-08 14:30:31,040 - INFO - Stopped screen recording.
+2023-12-08 14:31:10,704 - INFO - Connection from ('127.0.0.1', 10541) established.
+2023-12-08 14:31:10,704 - INFO - Received command: stopServerAgent
+2023-12-08 14:31:10,704 - INFO - Received command to stop the listener.
+2023-12-08 14:31:19,427 - INFO - Connection from ('127.0.0.1', 10546) established.
+2023-12-08 14:31:19,427 - INFO - Received command: startScreenRecord
+2023-12-08 14:31:19,428 - INFO - Received command to start screen recording.
+2023-12-08 14:31:19,428 - INFO - Received command: excelToPandas
+2023-12-08 14:31:19,430 - INFO - Started screen recording to C:\Users\dogan\Desktop\test\recordings\screen_record_2023-12-08_14-31-19.avi...
+2023-12-08 14:31:19,471 - INFO - Received command to convert C:\Users\dogan\Desktop\test\TestExcel.xlsx to Pandas DataFrame.
+2023-12-08 14:31:19,472 - INFO - Received command: manipulateData
+2023-12-08 14:31:19,498 - INFO - Received command to manipulate data with ID: 1324234.
+2023-12-08 14:31:19,499 - INFO - Received command: stopScreenRecord
+2023-12-08 14:31:22,500 - INFO - Received command to stop screen recording.
+2023-12-08 14:31:22,537 - INFO - Stopped screen recording.
+2023-12-08 14:33:29,678 - INFO - Connection from ('127.0.0.1', 10577) established.
+2023-12-08 14:33:29,678 - INFO - Received command: stopServerAgent
+2023-12-08 14:33:29,678 - INFO - Received command to stop the listener.
+2023-12-08 14:33:37,175 - INFO - Connection from ('127.0.0.1', 10581) established.
+2023-12-08 14:33:37,176 - INFO - Received command: startScreenRecord
+2023-12-08 14:33:37,176 - INFO - Received command to start screen recording.
+2023-12-08 14:33:37,177 - INFO - Received command: excelToPandas
+2023-12-08 14:33:37,182 - INFO - Started screen recording to C:\Users\dogan\Desktop\test\recordings\screen_record_2023-12-08_14-33-37.avi...
+2023-12-08 14:33:37,231 - INFO - Received command to convert C:\Users\dogan\Desktop\test\TestExcel.xlsx to Pandas DataFrame.
+2023-12-08 14:33:37,231 - INFO - Received command: manipulateData
+2023-12-08 14:33:37,245 - INFO - Received command to manipulate data with ID: 1324234.
+2023-12-08 14:33:37,245 - INFO - Received command: stopScreenRecord
+2023-12-08 14:33:40,250 - INFO - Received command to stop screen recording.
+2023-12-08 14:33:40,302 - INFO - Stopped screen recording.
+2023-12-08 14:37:00,035 - INFO - Connection from ('127.0.0.1', 10657) established.
+2023-12-08 14:37:00,035 - INFO - Received command: stopServerAgent
+2023-12-08 14:37:00,035 - INFO - Received command to stop the listener.
+2023-12-08 14:37:13,621 - INFO - Connection from ('127.0.0.1', 10659) established.
+2023-12-08 14:37:13,621 - INFO - Received command: startScreenRecord
+2023-12-08 14:37:13,622 - INFO - Received command to start screen recording.
+2023-12-08 14:37:13,622 - INFO - Received command: excelToPandas
+2023-12-08 14:37:13,626 - INFO - Started screen recording to C:\Users\dogan\Desktop\test\recordings\screen_record_2023-12-08_14-37-13.avi...
+2023-12-08 14:37:13,692 - INFO - Received command to convert C:\Users\dogan\Desktop\test\TestExcel.xlsx to Pandas DataFrame.
+2023-12-08 14:37:13,692 - INFO - Received command: manipulateData
+2023-12-08 14:37:13,705 - INFO - Received command to manipulate data with ID: 1324234.
+2023-12-08 14:37:13,705 - INFO - Received command: stopScreenRecord
+2023-12-08 14:37:16,725 - INFO - Received command to stop screen recording.
+2023-12-08 14:37:16,795 - INFO - Stopped screen recording.
+2023-12-08 14:38:40,032 - INFO - Connection from ('127.0.0.1', 10693) established.
+2023-12-08 14:38:40,032 - INFO - Received command: stopServerAgent
+2023-12-08 14:38:40,032 - INFO - Received command to stop the listener.
+2023-12-08 14:40:59,183 - INFO - Connection from ('127.0.0.1', 10713) established.
+2023-12-08 14:40:59,184 - INFO - Received command: stopServerAgent
+2023-12-08 14:40:59,185 - INFO - Received command to stop the listener.
+2023-12-08 14:41:07,795 - INFO - Connection from ('127.0.0.1', 10714) established.
+2023-12-08 14:41:07,796 - INFO - Received command: startScreenRecord
+2023-12-08 14:41:07,796 - INFO - Received command to start screen recording.
+2023-12-08 14:41:07,797 - INFO - Received command: excelToPandas
+2023-12-08 14:41:07,800 - INFO - Started screen recording to C:\Users\dogan\Desktop\test\recordings\screen_record_2023-12-08_14-41-07.avi...
+2023-12-08 14:41:07,854 - INFO - Received command to convert C:\Users\dogan\Desktop\test\TestExcel.xlsx to Pandas DataFrame.
+2023-12-08 14:41:07,854 - INFO - Received command: manipulateData
+2023-12-08 14:41:07,866 - INFO - Received command to manipulate data with ID: 1324234.
+2023-12-08 14:41:07,866 - INFO - Received command: stopScreenRecord
+2023-12-08 14:41:10,867 - INFO - Received command to stop screen recording.
+2023-12-08 14:41:10,885 - INFO - Stopped screen recording.
+2023-12-08 14:42:21,268 - INFO - Connection from ('127.0.0.1', 10735) established.
+2023-12-08 14:42:21,269 - INFO - Received command: stopServerAgent
+2023-12-08 14:42:21,269 - INFO - Received command to stop the listener.
+2023-12-08 14:44:25,814 - INFO - Connection from ('127.0.0.1', 10762) established.
+2023-12-08 14:44:25,814 - INFO - Received command: startScreenRecord
+2023-12-08 14:44:25,815 - INFO - Received command to start screen recording.
+2023-12-08 14:44:25,815 - INFO - Received command: excelToPandas
+2023-12-08 14:44:25,819 - INFO - Started screen recording to C:\Users\dogan\Desktop\test\recordings\screen_record_2023-12-08_14-44-25.avi...
+2023-12-08 14:44:25,871 - INFO - Received command to convert C:\Users\dogan\Desktop\test\TestExcel.xlsx to Pandas DataFrame.
+2023-12-08 14:44:25,871 - INFO - Received command: manipulateData
+2023-12-08 14:44:25,885 - INFO - Received command to manipulate data with ID: 1324234.
+2023-12-08 14:44:25,885 - INFO - Received command: stopScreenRecord
+2023-12-08 14:44:28,894 - INFO - Received command to stop screen recording.
+2023-12-08 14:44:28,967 - INFO - Stopped screen recording.
+2023-12-08 14:46:54,373 - INFO - Connection from ('127.0.0.1', 10780) established.
+2023-12-08 14:46:54,374 - INFO - Received command: stopServerAgent
+2023-12-08 14:46:54,374 - INFO - Received command to stop the listener.
+2023-12-08 14:47:06,824 - INFO - Connection from ('127.0.0.1', 10781) established.
+2023-12-08 14:47:06,824 - INFO - Received command: startScreenRecord
+2023-12-08 14:47:06,825 - INFO - Received command to start screen recording.
+2023-12-08 14:47:06,825 - INFO - Received command: excelToPandas
+2023-12-08 14:47:06,829 - INFO - Started screen recording to C:\Users\dogan\Desktop\test\recordings\screen_record_2023-12-08_14-47-06.avi...
+2023-12-08 14:47:06,879 - INFO - Received command to convert C:\Users\dogan\Desktop\test\TestExcel.xlsx to Pandas DataFrame.
+2023-12-08 14:47:06,879 - INFO - Received command: manipulateData
+2023-12-08 14:47:06,894 - INFO - Received command to manipulate data with ID: 1324234.
+2023-12-08 14:47:06,894 - INFO - Received command: stopScreenRecord
+2023-12-08 14:47:09,905 - INFO - Received command to stop screen recording.
+2023-12-08 14:47:09,980 - INFO - Stopped screen recording.
+2023-12-08 14:48:51,003 - INFO - Connection from ('127.0.0.1', 10811) established.
+2023-12-08 14:48:51,003 - INFO - Received command: stopServerAgent
+2023-12-08 14:48:51,003 - INFO - Received command to stop the listener.
+2023-12-08 14:49:57,955 - INFO - Connection from ('127.0.0.1', 10851) established.
+2023-12-08 14:49:57,955 - INFO - Received command: startScreenRecord
+2023-12-08 14:49:57,956 - INFO - Received command to start screen recording.
+2023-12-08 14:49:57,956 - INFO - Received command: excelToPandas
+2023-12-08 14:49:57,961 - INFO - Started screen recording to C:\Users\dogan\Desktop\test\recordings\screen_record_2023-12-08_14-49-57.avi...
+2023-12-08 14:49:57,998 - INFO - Received command to convert C:\Users\dogan\Desktop\test\TestExcel.xlsx to Pandas DataFrame.
+2023-12-08 14:49:57,998 - INFO - Received command: manipulateData
+2023-12-08 14:49:57,999 - INFO - Received command to manipulate data with ID: 1324234.
+2023-12-08 14:49:57,999 - INFO - Received command: stopScreenRecord
+2023-12-08 14:50:01,017 - INFO - Received command to stop screen recording.
+2023-12-08 14:50:01,088 - INFO - Stopped screen recording.
+2023-12-08 14:51:20,858 - INFO - Connection from ('127.0.0.1', 10880) established.
+2023-12-08 14:51:20,858 - INFO - Received command: startScreenRecord
+2023-12-08 14:51:20,859 - INFO - Received command to start screen recording.
+2023-12-08 14:51:20,860 - INFO - Received command: excelToPandas
+2023-12-08 14:51:20,862 - INFO - Started screen recording to C:\Users\dogan\Desktop\test\recordings\screen_record_2023-12-08_14-51-20.avi...
+2023-12-08 14:51:20,923 - INFO - Received command to convert C:\Users\dogan\Desktop\test\TestExcel.xlsx to Pandas DataFrame.
+2023-12-08 14:51:20,923 - INFO - Received command: manipulateData
+2023-12-08 14:51:20,945 - INFO - Received command to manipulate data with ID: 1324234.
+2023-12-08 14:51:20,945 - INFO - Received command: stopScreenRecord
+2023-12-08 14:51:23,951 - INFO - Received command to stop screen recording.
+2023-12-08 14:51:24,024 - INFO - Stopped screen recording.
+2023-12-08 14:52:48,176 - INFO - Connection from ('127.0.0.1', 10918) established.
+2023-12-08 14:52:48,176 - INFO - Received command: startScreenRecord
+2023-12-08 14:52:48,177 - INFO - Received command to start screen recording.
+2023-12-08 14:52:48,177 - INFO - Received command: excelToPandas
+2023-12-08 14:52:48,180 - INFO - Started screen recording to C:\Users\dogan\Desktop\test\recordings\screen_record_2023-12-08_14-52-48.avi...
+2023-12-08 14:52:48,234 - INFO - Received command to convert C:\Users\dogan\Desktop\test\TestExcel.xlsx to Pandas DataFrame.
+2023-12-08 14:52:48,235 - INFO - Received command: manipulateData
+2023-12-08 14:52:48,261 - INFO - Received command to manipulate data with ID: 1324234.
+2023-12-08 14:52:48,261 - INFO - Received command: stopScreenRecord
+2023-12-08 14:52:51,262 - INFO - Received command to stop screen recording.
+2023-12-08 14:52:51,266 - INFO - Stopped screen recording.
+2023-12-08 14:55:51,336 - INFO - Connection from ('127.0.0.1', 11025) established.
+2023-12-08 14:55:51,336 - INFO - Received command: excelToPandas
+2023-12-08 14:55:51,342 - INFO - Received command to convert C:\Users\dogan\Desktop\test\TestExcel.xlsx to Pandas DataFrame.
+2023-12-08 14:55:51,342 - INFO - Received command: manipulateData
+2023-12-08 14:55:51,354 - INFO - Received command to manipulate data with ID: 1324234.
+2023-12-08 14:56:06,209 - INFO - Connection from ('127.0.0.1', 11027) established.
+2023-12-08 14:56:06,209 - INFO - Received command: stopServerAgent
+2023-12-08 14:56:06,210 - INFO - Received command to stop the listener.
+2023-12-08 15:03:44,265 - INFO - Connection from ('127.0.0.1', 11231) established.
+2023-12-08 15:03:44,267 - INFO - Received command: startScreenRecord
+2023-12-08 15:03:44,267 - INFO - Received command to start screen recording.
+2023-12-08 15:03:44,267 - INFO - Received command: findImage
+2023-12-08 15:03:44,272 - INFO - Started screen recording to C:\Users\dogan\Desktop\test\recordings\screen_record_2023-12-08_15-03-44.avi...
+2023-12-08 15:03:45,860 - INFO - Found and double-clicked the icon.
+2023-12-08 15:03:45,863 - INFO - Received command to click on C:\Users\dogan\Desktop\test\snaps\1.png image on the screen.
+2023-12-08 15:03:45,863 - INFO - Received command: findImage
+2023-12-08 15:03:47,264 - INFO - Icon not found on the screen.
+2023-12-08 15:03:47,267 - INFO - Icon 'C:\Users\dogan\Desktop\test\snaps\2.png' not found on the screen.
+2023-12-08 15:03:47,267 - INFO - Received command to click on C:\Users\dogan\Desktop\test\snaps\2.png image on the screen.
+2023-12-08 15:03:47,267 - INFO - Received command: findImage
+2023-12-08 15:03:48,533 - INFO - Icon not found on the screen.
+2023-12-08 15:03:48,537 - INFO - Icon 'C:\Users\dogan\Desktop\test\snaps\3.png' not found on the screen.
+2023-12-08 15:03:48,537 - INFO - Received command to click on C:\Users\dogan\Desktop\test\snaps\3.png image on the screen.
+2023-12-08 15:03:48,537 - INFO - Received command: stopScreenRecord
+2023-12-08 15:03:51,539 - INFO - Received command to stop screen recording.
+2023-12-08 15:03:51,539 - INFO - Received command: openExcelAndWrite
+2023-12-08 15:03:51,566 - INFO - Stopped screen recording.
+2023-12-08 15:03:57,022 - INFO - Connection from ('127.0.0.1', 11234) established.
+2023-12-08 15:03:57,023 - INFO - Received command: startScreenRecord
+2023-12-08 15:03:57,023 - INFO - Received command to start screen recording.
+2023-12-08 15:03:57,024 - INFO - Received command: findImage
+2023-12-08 15:03:57,025 - INFO - Started screen recording to C:\Users\dogan\Desktop\test\recordings\screen_record_2023-12-08_15-03-57.avi...
+2023-12-08 15:03:58,555 - INFO - Found and double-clicked the icon.
+2023-12-08 15:03:58,559 - INFO - Received command to click on C:\Users\dogan\Desktop\test\snaps\1.png image on the screen.
+2023-12-08 15:03:58,559 - INFO - Received command: findImage
+2023-12-08 15:04:00,053 - INFO - Found and double-clicked the icon.
+2023-12-08 15:04:00,062 - INFO - Received command to click on C:\Users\dogan\Desktop\test\snaps\2.png image on the screen.
+2023-12-08 15:04:00,065 - INFO - Received command: findImage
+2023-12-08 15:04:01,666 - INFO - Found and double-clicked the icon.
+2023-12-08 15:04:01,670 - INFO - Received command to click on C:\Users\dogan\Desktop\test\snaps\3.png image on the screen.
+2023-12-08 15:04:01,670 - INFO - Received command: stopScreenRecord
+2023-12-08 15:04:04,671 - INFO - Received command to stop screen recording.
+2023-12-08 15:04:04,671 - INFO - Received command: openExcelAndWrite
+2023-12-08 15:04:04,726 - INFO - Stopped screen recording.
+2023-12-08 15:50:04,787 - INFO - Connection from ('127.0.0.1', 11672) established.
+2023-12-08 15:50:04,788 - INFO - Received command: startScreenRecord
+2023-12-08 15:50:04,789 - INFO - Received command to start screen recording.
+2023-12-08 15:50:04,789 - INFO - Received command: findImage
+2023-12-08 15:50:04,791 - INFO - Started screen recording to C:\Users\dogan\Desktop\test\recordings\screen_record_2023-12-08_15-50-04.avi...
+2023-12-08 15:50:06,313 - INFO - Found and double-clicked the icon.
+2023-12-08 15:50:06,316 - INFO - Received command to click on C:\Users\dogan\Desktop\test\snaps\1.png image on the screen.
+2023-12-08 15:50:06,317 - INFO - Received command: findImage
+2023-12-08 15:50:07,934 - INFO - Found and double-clicked the icon.
+2023-12-08 15:50:07,937 - INFO - Received command to click on C:\Users\dogan\Desktop\test\snaps\2.png image on the screen.
+2023-12-08 15:50:07,937 - INFO - Received command: findImage
+2023-12-08 15:50:09,478 - INFO - Found and double-clicked the icon.
+2023-12-08 15:50:09,481 - INFO - Received command to click on C:\Users\dogan\Desktop\test\snaps\3.png image on the screen.
+2023-12-08 15:50:09,481 - INFO - Received command: stopScreenRecord
+2023-12-08 15:50:12,482 - INFO - Received command to stop screen recording.
+2023-12-08 15:50:12,526 - INFO - Stopped screen recording.
+2023-12-08 15:53:25,272 - INFO - Connection from ('127.0.0.1', 11747) established.
+2023-12-08 15:53:25,273 - INFO - Received command: stopServerAgent
+2023-12-08 15:53:25,273 - INFO - Received command to stop the listener.
+2023-12-08 16:00:14,099 - INFO - Connection from ('127.0.0.1', 11927) established.
+2023-12-08 16:00:14,099 - INFO - Received command: excelToPandas
+2023-12-08 16:00:14,115 - INFO - Received command to convert C:\Users\dogan\Desktop\test\TestExcel.xlsx to Pandas DataFrame.
+2023-12-08 16:00:14,115 - INFO - Received command: manipulateData
+2023-12-08 16:00:14,127 - INFO - Received command to manipulate data with ID: 1324234.
+2023-12-08 16:02:56,662 - INFO - Connection from ('127.0.0.1', 11975) established.
+2023-12-08 16:02:56,663 - INFO - Received command: startScreenRecord
+2023-12-08 16:02:56,664 - INFO - Received command to start screen recording.
+2023-12-08 16:02:56,664 - INFO - Received command: findImage
+2023-12-08 16:02:56,668 - INFO - Started screen recording to C:\Users\dogan\Desktop\test\recordings\screen_record_2023-12-08_16-02-56.avi...
+2023-12-08 16:02:58,174 - INFO - Found and double-clicked the icon.
+2023-12-08 16:02:58,179 - INFO - Received command to click on C:\Users\dogan\Desktop\test\snaps\1.png image on the screen.
+2023-12-08 16:02:58,185 - INFO - Received command: findImage
+2023-12-08 16:02:59,834 - INFO - Found and double-clicked the icon.
+2023-12-08 16:02:59,836 - INFO - Received command to click on C:\Users\dogan\Desktop\test\snaps\2.png image on the screen.
+2023-12-08 16:02:59,837 - INFO - Received command: findImage
+2023-12-08 16:03:01,435 - INFO - Found and double-clicked the icon.
+2023-12-08 16:03:01,439 - INFO - Received command to click on C:\Users\dogan\Desktop\test\snaps\3.png image on the screen.
+2023-12-08 16:03:01,439 - INFO - Received command: stopScreenRecord
+2023-12-08 16:03:04,441 - INFO - Received command to stop screen recording.
+2023-12-08 16:03:04,463 - INFO - Stopped screen recording.
+2023-12-08 16:03:56,140 - INFO - Connection from ('127.0.0.1', 11993) established.
+2023-12-08 16:03:56,141 - INFO - Received command: startScreenRecord
+2023-12-08 16:03:56,141 - INFO - Received command to start screen recording.
+2023-12-08 16:03:56,142 - INFO - Received command: findImage
+2023-12-08 16:03:56,143 - INFO - Started screen recording to C:\Users\dogan\Desktop\test\recordings\screen_record_2023-12-08_16-03-56.avi...
+2023-12-08 16:03:57,721 - INFO - Found and double-clicked the colored icon.
+2023-12-08 16:03:57,724 - INFO - Received command to click on C:\Users\dogan\Desktop\test\snaps\1.png image on the screen.
+2023-12-08 16:03:57,724 - INFO - Received command: findImage
+2023-12-08 16:03:59,108 - INFO - Icon not found on the screen.
+2023-12-08 16:03:59,111 - INFO - Icon 'C:\Users\dogan\Desktop\test\snaps\2.png' not found on the screen.
+2023-12-08 16:03:59,111 - INFO - Received command to click on C:\Users\dogan\Desktop\test\snaps\2.png image on the screen.
+2023-12-08 16:03:59,113 - INFO - Received command: findImage
+2023-12-08 16:04:00,428 - INFO - Icon not found on the screen.
+2023-12-08 16:04:00,431 - INFO - Icon 'C:\Users\dogan\Desktop\test\snaps\3.png' not found on the screen.
+2023-12-08 16:04:00,470 - INFO - Received command to click on C:\Users\dogan\Desktop\test\snaps\3.png image on the screen.
+2023-12-08 16:04:00,470 - INFO - Received command: stopScreenRecord
+2023-12-08 16:04:03,472 - INFO - Received command to stop screen recording.
+2023-12-08 16:04:03,489 - INFO - Stopped screen recording.
+2023-12-08 16:04:10,221 - INFO - Connection from ('127.0.0.1', 11997) established.
+2023-12-08 16:04:10,222 - INFO - Received command: startScreenRecord
+2023-12-08 16:04:10,222 - INFO - Received command to start screen recording.
+2023-12-08 16:04:10,222 - INFO - Received command: findImage
+2023-12-08 16:04:10,227 - INFO - Started screen recording to C:\Users\dogan\Desktop\test\recordings\screen_record_2023-12-08_16-04-10.avi...
+2023-12-08 16:04:11,689 - INFO - Found and double-clicked the colored icon.
+2023-12-08 16:04:11,691 - INFO - Received command to click on C:\Users\dogan\Desktop\test\snaps\1.png image on the screen.
+2023-12-08 16:04:11,691 - INFO - Received command: findImage
+2023-12-08 16:04:13,137 - INFO - Icon not found on the screen.
+2023-12-08 16:04:13,139 - INFO - Icon 'C:\Users\dogan\Desktop\test\snaps\2.png' not found on the screen.
+2023-12-08 16:04:13,140 - INFO - Received command to click on C:\Users\dogan\Desktop\test\snaps\2.png image on the screen.
+2023-12-08 16:04:13,141 - INFO - Received command: findImage
+2023-12-08 16:04:14,448 - INFO - Icon not found on the screen.
+2023-12-08 16:04:14,453 - INFO - Icon 'C:\Users\dogan\Desktop\test\snaps\3.png' not found on the screen.
+2023-12-08 16:04:14,453 - INFO - Received command to click on C:\Users\dogan\Desktop\test\snaps\3.png image on the screen.
+2023-12-08 16:04:14,454 - INFO - Received command: stopScreenRecord
+2023-12-08 16:04:17,455 - INFO - Received command to stop screen recording.
+2023-12-08 16:04:17,508 - INFO - Stopped screen recording.
+2023-12-08 16:04:38,596 - INFO - Connection from ('127.0.0.1', 12001) established.
+2023-12-08 16:04:38,596 - INFO - Received command: startScreenRecord
+2023-12-08 16:04:38,598 - INFO - Received command to start screen recording.
+2023-12-08 16:04:38,598 - INFO - Received command: findImage
+2023-12-08 16:04:38,600 - INFO - Started screen recording to C:\Users\dogan\Desktop\test\recordings\screen_record_2023-12-08_16-04-38.avi...
+2023-12-08 16:04:40,223 - INFO - Found and double-clicked the colored icon.
+2023-12-08 16:04:40,227 - INFO - Received command to click on C:\Users\dogan\Desktop\test\snaps\1.png image on the screen.
+2023-12-08 16:04:40,227 - INFO - Received command: findImage
+2023-12-08 16:04:41,588 - INFO - Icon not found on the screen.
+2023-12-08 16:04:41,591 - INFO - Icon 'C:\Users\dogan\Desktop\test\snaps\2.png' not found on the screen.
+2023-12-08 16:04:41,593 - INFO - Received command to click on C:\Users\dogan\Desktop\test\snaps\2.png image on the screen.
+2023-12-08 16:04:41,593 - INFO - Received command: findImage
+2023-12-08 16:04:42,971 - INFO - Icon not found on the screen.
+2023-12-08 16:04:42,973 - INFO - Icon 'C:\Users\dogan\Desktop\test\snaps\3.png' not found on the screen.
+2023-12-08 16:04:42,975 - INFO - Received command to click on C:\Users\dogan\Desktop\test\snaps\3.png image on the screen.
+2023-12-08 16:04:42,978 - INFO - Received command: stopScreenRecord
+2023-12-08 16:04:45,980 - INFO - Received command to stop screen recording.
+2023-12-08 16:04:46,003 - INFO - Stopped screen recording.
+2023-12-08 16:04:54,507 - INFO - Connection from ('127.0.0.1', 12003) established.
+2023-12-08 16:04:54,508 - INFO - Received command: startScreenRecord
+2023-12-08 16:04:54,509 - INFO - Received command to start screen recording.
+2023-12-08 16:04:54,509 - INFO - Received command: findImage
+2023-12-08 16:04:54,511 - INFO - Started screen recording to C:\Users\dogan\Desktop\test\recordings\screen_record_2023-12-08_16-04-54.avi...
+2023-12-08 16:04:56,033 - INFO - Found and double-clicked the icon.
+2023-12-08 16:04:56,037 - INFO - Received command to click on C:\Users\dogan\Desktop\test\snaps\1.png image on the screen.
+2023-12-08 16:04:56,038 - INFO - Received command: findImage
+2023-12-08 16:04:57,615 - INFO - Found and double-clicked the icon.
+2023-12-08 16:04:57,618 - INFO - Received command to click on C:\Users\dogan\Desktop\test\snaps\2.png image on the screen.
+2023-12-08 16:04:57,619 - INFO - Received command: findImage
+2023-12-08 16:04:59,010 - INFO - Icon not found on the screen.
+2023-12-08 16:04:59,014 - INFO - Icon 'C:\Users\dogan\Desktop\test\snaps\3.png' not found on the screen.
+2023-12-08 16:04:59,015 - INFO - Received command to click on C:\Users\dogan\Desktop\test\snaps\3.png image on the screen.
+2023-12-08 16:04:59,016 - INFO - Received command: stopScreenRecord
+2023-12-08 16:05:02,019 - INFO - Received command to stop screen recording.
+2023-12-08 16:05:02,085 - INFO - Stopped screen recording.
+2023-12-08 16:05:24,534 - INFO - Connection from ('127.0.0.1', 12014) established.
+2023-12-08 16:05:24,535 - INFO - Received command: startScreenRecord
+2023-12-08 16:05:24,536 - INFO - Received command to start screen recording.
+2023-12-08 16:05:24,536 - INFO - Received command: findImage
+2023-12-08 16:05:24,538 - INFO - Started screen recording to C:\Users\dogan\Desktop\test\recordings\screen_record_2023-12-08_16-05-24.avi...
+2023-12-08 16:05:26,054 - INFO - Found and double-clicked the icon.
+2023-12-08 16:05:26,059 - INFO - Received command to click on C:\Users\dogan\Desktop\test\snaps\1.png image on the screen.
+2023-12-08 16:05:26,060 - INFO - Received command: findImage
+2023-12-08 16:05:27,696 - INFO - Found and double-clicked the icon.
+2023-12-08 16:05:27,699 - INFO - Received command to click on C:\Users\dogan\Desktop\test\snaps\2.png image on the screen.
+2023-12-08 16:05:27,700 - INFO - Received command: findImage
+2023-12-08 16:05:29,249 - INFO - Found and double-clicked the icon.
+2023-12-08 16:05:29,252 - INFO - Received command to click on C:\Users\dogan\Desktop\test\snaps\3.png image on the screen.
+2023-12-08 16:05:29,254 - INFO - Received command: stopScreenRecord
+2023-12-08 16:05:32,265 - INFO - Received command to stop screen recording.
+2023-12-08 16:05:32,341 - INFO - Stopped screen recording.
+2023-12-08 19:20:30,351 - INFO - Connection from ('127.0.0.1', 51035) established.
+2023-12-08 19:20:30,352 - INFO - Received command: stopServerAgent
+2023-12-08 19:20:30,352 - INFO - Received command to stop the listener.
+2023-12-08 19:20:51,465 - INFO - Connection from ('127.0.0.1', 51040) established.
+2023-12-08 19:20:51,465 - INFO - Received command: excelToPandas
+2023-12-08 19:20:51,488 - INFO - Received command to convert C:\Users\dogan\Desktop\test\TestExcel.xlsx to Pandas DataFrame.
+2023-12-08 19:20:51,488 - INFO - Received command: manipulateData
+2023-12-08 19:20:51,499 - INFO - Received command to manipulate data with ID: 1324234.
+2023-12-08 19:26:43,289 - INFO - Connection from ('127.0.0.1', 51126) established.
+2023-12-08 19:26:43,289 - INFO - Received command: stopServerAgent
+2023-12-08 19:26:43,289 - INFO - Received command to stop the listener.
