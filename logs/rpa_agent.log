@@ -877,3 +877,8 @@
 2023-12-09 00:01:18,226 - INFO - Connection from ('127.0.0.1', 52235) established.
 2023-12-09 00:01:18,226 - INFO - Received command: stopServerAgent
 2023-12-09 00:01:18,226 - INFO - Received command to stop the listener.
+2023-12-09 00:01:25,425 - INFO - Connection from ('127.0.0.1', 52239) established.
+2023-12-09 00:01:25,425 - INFO - Received command: excelToPandas
+2023-12-09 00:01:25,444 - INFO - Received command to convert C:\Users\dogan\Desktop\test\TestExcel.xlsx to Pandas DataFrame.
+2023-12-09 00:01:25,444 - INFO - Received command: manipulateData
+2023-12-09 00:01:25,468 - INFO - Received command to manipulate data with ID: 1324234.
