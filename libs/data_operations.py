@@ -27,31 +27,31 @@ def change_file_permissions(file_path):
         print(f"Error changing permissions: {e}")
 
 
-def write_to_excel_new_sheet(manipulated_data, excel_file, sheet_name='Manipulated_Data'):
+def write_to_excel_new_sheet(manipulated_data, excel_file, sheet_name='Manipulated_Data2'):
     try:
         # Create a new Pandas DataFrame from manipulated_data
         df = pd.DataFrame(manipulated_data)
 
-        with pd.ExcelWriter(excel_file, engine='openpyxl', mode='a') as writer:
-            writer.book = load_workbook(excel_file)
+        # Load the workbook
+        book = load_workbook(excel_file)
 
-            # Check if the specified sheet exists, if not, create a new one
-            if sheet_name not in writer.book.sheetnames:
-                writer.book.create_sheet(title=sheet_name)
+        # Check if the specified sheet exists, if not, create a new one
+        if sheet_name not in book.sheetnames:
+            book.create_sheet(title=sheet_name)
 
-            # Write the data to the specified sheet
-            writer.sheets = {ws.title: ws for ws in writer.book.worksheets}
-            sheet = writer.book[sheet_name]
+        # Get the active sheet
+        sheet = book[sheet_name]
 
-            for idx, row in df.iterrows():
-                for col_idx, value in enumerate(row):
-                    sheet[get_column_letter(
-                        col_idx + 1) + str(idx + 1)] = value
+        # Write the data to the specified sheet
+        for idx, row in df.iterrows():
+            for col_idx, value in enumerate(row):
+                sheet[get_column_letter(col_idx + 1) + str(idx + 1)] = value
 
-            writer.save()
+        # Save the workbook
+        book.save(excel_file)
 
-            print(f"Manipulated data saved to a new sheet '{
-                  sheet_name}' in {excel_file}")
+        print(f"Manipulated data saved to a new sheet '{
+              sheet_name}' in {excel_file}")
     except Exception as e:
         print(f"Error occurred while writing to Excel: {e}")
 
