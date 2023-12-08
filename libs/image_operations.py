@@ -1,11 +1,14 @@
-from common_imports import cv2, time
+from common_imports import cv2, time, os
 from libs.screen_operations import find_and_double_click
 from libs.logging_utils import log_message
 
 
 def process_image_commands(cmd):
     if cmd["command"] == "findImage":
-        iconPath = cmd["imagePath"]
+        current_dir = os.path.dirname(os.path.abspath(__file__))
+        parent_dir = os.path.dirname(current_dir)
+        snaps_path = os.path.join(parent_dir, 'snaps')
+        iconPath = os.path.join(snaps_path, cmd["imagePath"])
         iconGray = cv2.imread(iconPath, cv2.IMREAD_GRAYSCALE)
         iconColor = cv2.imread(iconPath)
         time.sleep(1)

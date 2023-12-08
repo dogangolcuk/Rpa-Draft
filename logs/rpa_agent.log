@@ -117,3 +117,36 @@
 2023-12-08 01:10:55,134 - INFO - Icon 'C:\Users\dogan\Desktop\test\snaps\4.png' not found on the screen.
 2023-12-08 01:10:55,134 - INFO - Received command: stopServerAgent
 2023-12-08 01:10:55,135 - INFO - Received command to stop the listener.
+2023-12-08 09:17:36,277 - INFO - Connection from ('127.0.0.1', 4799) established.
+2023-12-08 09:17:36,280 - INFO - Received command: findImage
+2023-12-08 09:17:37,517 - INFO - Icon not found on the screen.
+2023-12-08 09:17:37,520 - INFO - Icon 'C:\Users\dogan\Desktop\test\snaps\4.png' not found on the screen.
+2023-12-08 09:17:37,520 - INFO - Received command: stopServerAgent
+2023-12-08 09:17:37,520 - INFO - Received command to stop the listener.
+2023-12-08 09:20:00,271 - INFO - Connection from ('127.0.0.1', 4811) established.
+2023-12-08 09:20:00,271 - INFO - Received command: findImage
+2023-12-08 09:20:01,475 - INFO - Icon not found on the screen.
+2023-12-08 09:20:01,477 - INFO - Icon 'C:\Users\dogan\Desktop\test\snaps\4.png' not found on the screen.
+2023-12-08 09:20:01,477 - INFO - Received command: stopServerAgent
+2023-12-08 09:20:01,477 - INFO - Received command to stop the listener.
+2023-12-08 09:28:04,733 - INFO - Connection from ('127.0.0.1', 4986) established.
+2023-12-08 09:28:04,734 - INFO - Received command: findImage
+2023-12-08 09:28:04,736 - INFO - Error processing commands: cannot access local variable 'iconPath' where it is not associated with a value
+2023-12-08 09:29:41,857 - INFO - Connection from ('127.0.0.1', 5042) established.
+2023-12-08 09:29:41,858 - INFO - Received command: findImage
+2023-12-08 09:29:41,858 - INFO - Error processing commands: cannot access local variable 'iconPath' where it is not associated with a value
+2023-12-08 09:30:19,866 - INFO - Connection from ('127.0.0.1', 5071) established.
+2023-12-08 09:30:19,867 - INFO - Received command: stopServerAgent
+2023-12-08 09:30:19,867 - INFO - Received command to stop the listener.
+2023-12-08 09:30:31,032 - INFO - Connection from ('127.0.0.1', 5076) established.
+2023-12-08 09:30:31,033 - INFO - Received command: findImage
+2023-12-08 09:30:32,098 - INFO - Error finding and double-clicking icon: OpenCV(4.8.1) D:\a\opencv-python\opencv-python\opencv\modules\imgproc\src\templmatch.cpp:588: error: (-215:Assertion failed) corr.rows <= img.rows + templ.rows - 1 && corr.cols <= img.cols + templ.cols - 1 in function 'cv::crossCorr'
+
+2023-12-08 09:30:32,100 - INFO - Icon 'C:\Users\dogan\Desktop\test\libs\snaps\4.png' not found on the screen.
+2023-12-08 09:30:32,100 - INFO - Received command: stopServerAgent
+2023-12-08 09:30:32,101 - INFO - Received command to stop the listener.
+2023-12-08 09:32:11,167 - INFO - Connection from ('127.0.0.1', 5100) established.
+2023-12-08 09:32:11,168 - INFO - Received command: findImage
+2023-12-08 09:32:12,596 - INFO - Found and double-clicked the icon.
+2023-12-08 09:32:12,599 - INFO - Received command: stopServerAgent
+2023-12-08 09:32:12,599 - INFO - Received command to stop the listener.

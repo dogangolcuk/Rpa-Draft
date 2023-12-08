@@ -4,11 +4,6 @@ import json
 # Define the commands in the specified JSON format
 commands = [
     {
-        "command": "findImage",
-        "imagePath": "4.png",
-        "action": "doubleClick"
-    },
-    {
         "command": "stopServerAgent",
     }
 ]
