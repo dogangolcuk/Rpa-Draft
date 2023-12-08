@@ -1,0 +1,23 @@
+[
+  {
+    "command": "startScreenRecord"
+  },
+  {
+    "command": "findImage",
+    "imagePath": "C:\\Users\\dogan\\Desktop\\test\\snaps\\1.png",
+    "action": "doubleClick"
+  },
+  {
+    "command": "findImage",
+    "imagePath": "C:\\Users\\dogan\\Desktop\\test\\snaps\\2.png",
+    "action": "doubleClick"
+  },
+  {
+    "command": "findImage",
+    "imagePath": "C:\\Users\\dogan\\Desktop\\test\\snaps\\3.png",
+    "action": "doubleClick"
+  },
+  {
+    "command": "stopScreenRecord"
+  }
+]
