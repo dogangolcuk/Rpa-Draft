@@ -1,0 +1,13 @@
+[
+  {
+    "command": "excelToPandas",
+    "filePath": "C:\\Users\\dogan\\Desktop\\test\\TestExcel.xlsx",
+    "action": "none",
+    "writeDataId": "1324234"
+  },
+  {
+    "getDataId": "1324234",
+    "command": "manipulateData",
+    "filePath": "C:\\Users\\dogan\\Desktop\\test\\TestExcel.xlsx"
+  }
+]

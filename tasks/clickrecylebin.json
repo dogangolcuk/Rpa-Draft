@@ -1,0 +1,10 @@
+[
+  {
+    "command": "findImage",
+    "imagePath": "4.png",
+    "action": "doubleClick"
+  },
+  {
+    "command": "stopServerAgent"
+  }
+]
