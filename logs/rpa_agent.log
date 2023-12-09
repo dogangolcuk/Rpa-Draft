@@ -1033,3 +1033,26 @@
 2023-12-09 20:39:04,016 - INFO - Received command to convert C:\Users\dogan\Desktop\test\TestExcel.xlsx to Pandas DataFrame.
 2023-12-09 20:39:04,016 - INFO - Received command: manipulateData
 2023-12-09 20:39:04,027 - INFO - Received command to manipulate data with ID: 1324234.
+2023-12-09 23:34:15,411 - INFO - Connection from ('127.0.0.1', 54165) established.
+2023-12-09 23:34:15,411 - INFO - Received command: stopServerAgent
+2023-12-09 23:34:15,411 - INFO - Received command to stop the listener.
+2023-12-09 23:47:42,019 - INFO - Agent stopped.
+2023-12-09 23:48:13,699 - INFO - Connection from ('127.0.0.1', 54697) established.
+2023-12-09 23:48:13,699 - INFO - Received command: stopServerAgent
+2023-12-09 23:48:13,699 - INFO - Error processing commands: stop_listener_flag() takes 0 positional arguments but 1 was given
+2023-12-09 23:51:06,269 - INFO - Agent stopped.
+2023-12-09 23:51:11,179 - INFO - Connection from ('127.0.0.1', 54742) established.
+2023-12-09 23:51:11,179 - INFO - Received command: stopServerAgent
+2023-12-09 23:51:11,179 - INFO - Error processing commands: stop_listener_flag() takes 0 positional arguments but 1 was given
+2023-12-09 23:53:37,801 - INFO - Connection from ('127.0.0.1', 54764) established.
+2023-12-09 23:53:37,801 - INFO - Received command: stopServerAgent
+2023-12-09 23:53:37,801 - INFO - Error processing commands: stop_listener_flag() takes 0 positional arguments but 1 was given
+2023-12-09 23:54:04,478 - INFO - Connection from ('127.0.0.1', 54770) established.
+2023-12-09 23:54:04,478 - INFO - Received command: stopServerAgent
+2023-12-09 23:54:04,478 - INFO - Error processing commands: stop_listener_flag() takes 0 positional arguments but 1 was given
+2023-12-09 23:58:49,118 - INFO - Connection from ('127.0.0.1', 54995) established.
+2023-12-09 23:58:49,118 - INFO - Received command: stopServerAgent
+2023-12-09 23:58:49,118 - INFO - Error processing commands: stop_listener_flag() takes 0 positional arguments but 1 was given
+2023-12-10 00:01:59,252 - INFO - Connection from ('127.0.0.1', 55033) established.
+2023-12-10 00:01:59,252 - INFO - Received command: stopServerAgent
+2023-12-10 00:01:59,252 - INFO - Executed command: stopServerAgent

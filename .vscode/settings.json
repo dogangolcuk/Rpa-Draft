@@ -1,8 +1,4 @@
 {
-  "cSpell.ignoreWords": [
-    "openpyxl",
-    "pyautogui"
-  ],
   "python.analysis.extraPaths": [
     "./libs/utils"
   ]

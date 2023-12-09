@@ -1,4 +1,3 @@
-from libs.socket_operations import start_socket_listener
 import sys
 import os
 
@@ -9,6 +8,8 @@ utils_path = os.path.join(libs_path, 'utils')
 sys.path.append(libs_path)
 sys.path.append(utils_path)
 
+# Dont take this line to line 1 because of import from libs and utils
+from libs.socket_operations import start_socket_listener
 
 def main():
     start_socket_listener()
