@@ -10,8 +10,6 @@ from data_manipulator import DataManipulator
 # Create an instance of DataManipulator
 manipulator = DataManipulator()
 
-# Load the plugin
-manipulator.load_plugin("./plugins/trtoeng.py")
 
 def read_data_from_store(data_id):
     data_store = DataStore()
@@ -67,6 +65,8 @@ def manipulate_and_write_data(cmd):
     data = read_data_from_store(cmd["getDataId"])
     print("Original Data")
     print(data)
+    # Load the plugin
+    manipulator.load_plugin("./plugins/" + cmd["usePLugin"] + ".py")
 
     # manipulated_data = manipulate_data(data)
     manipulated_data = manipulator.manipulate_data(data)

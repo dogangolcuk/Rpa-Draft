@@ -8,6 +8,7 @@
   {
     "getDataId": "1324234",
     "command": "manipulateData",
-    "filePath": "C:\\Users\\dogan\\Desktop\\test\\TestExcel.xlsx"
+    "filePath": "C:\\Users\\dogan\\Desktop\\test\\TestExcel1.xlsx",
+    "usePLugin":"trtoeng"
   }
 ]
