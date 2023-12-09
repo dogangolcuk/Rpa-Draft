@@ -1,4 +1,4 @@
-from common_imports import pandas as pd
+import pandas as pd
 from data_store import DataStore
 from libs.logging_utils import log_message
 

@@ -1,4 +1,6 @@
-from common_imports import socket, json
+
+import socket
+import  json
 from libs.data_operations import manipulate_and_write_data
 from libs.excel_operations import excel_to_pandas
 from libs.screen_operations import handle_screen_record, stop_screen_record

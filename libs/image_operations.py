@@ -1,4 +1,6 @@
-from common_imports import cv2, time, os
+import cv2
+import time
+import os
 from libs.screen_operations import find_and_double_click
 from libs.logging_utils import log_message
 

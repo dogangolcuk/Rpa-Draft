@@ -1056,3 +1056,94 @@
 2023-12-10 00:01:59,252 - INFO - Connection from ('127.0.0.1', 55033) established.
 2023-12-10 00:01:59,252 - INFO - Received command: stopServerAgent
 2023-12-10 00:01:59,252 - INFO - Executed command: stopServerAgent
+2023-12-10 00:32:40,395 - INFO - Connection from ('127.0.0.1', 55332) established.
+2023-12-10 00:32:40,395 - INFO - Received command: stopServerAgent1
+2023-12-10 00:32:40,395 - INFO - Command 'stopServerAgent1' not supported.
+2023-12-10 00:32:54,034 - INFO - Connection from ('127.0.0.1', 55335) established.
+2023-12-10 00:32:54,034 - INFO - Received command: stopServerAgent
+2023-12-10 00:32:54,034 - INFO - Executed command: stopServerAgent
+2023-12-10 00:38:38,091 - INFO - Connection from ('127.0.0.1', 55443) established.
+2023-12-10 00:38:38,091 - INFO - Received command: stopServerAgent
+2023-12-10 00:38:38,091 - INFO - Executed command: stopServerAgent
+2023-12-10 00:52:07,958 - INFO - Connection from ('127.0.0.1', 41043) established.
+2023-12-10 00:52:07,958 - INFO - Received command: stopServerAgent
+2023-12-10 00:52:07,959 - INFO - Executed command: stopServerAgent
+2023-12-10 00:52:34,485 - ERROR - An error occurred when calling message handler
+Traceback (most recent call last):
+  File "C:\Users\dogan\Desktop\test\rpaenv\Lib\site-packages\pystray\_win32.py", line 412, in _dispatcher
+    return int(icon._message_handlers.get(
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\dogan\Desktop\test\rpaenv\Lib\site-packages\pystray\_win32.py", line 224, in _on_notify
+    descriptors[index - 1](self)
+  File "C:\Users\dogan\Desktop\test\rpaenv\Lib\site-packages\pystray\_base.py", line 328, in inner
+    callback(self)
+  File "C:\Users\dogan\Desktop\test\rpaenv\Lib\site-packages\pystray\_base.py", line 453, in __call__
+    return self._action(icon, self)
+           ^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\dogan\Desktop\test\QRPAEngine.py", line 25, in on_exit
+    sys.exit(0)
+SystemExit: 0
+2023-12-10 00:53:26,783 - INFO - Connection from ('127.0.0.1', 41054) established.
+2023-12-10 00:53:26,784 - INFO - Received command: stopServerAgent
+2023-12-10 00:53:26,784 - INFO - Executed command: stopServerAgent
+2023-12-10 00:53:35,932 - ERROR - An error occurred when calling message handler
+Traceback (most recent call last):
+  File "C:\Users\dogan\Desktop\test\rpaenv\Lib\site-packages\pystray\_win32.py", line 412, in _dispatcher
+    return int(icon._message_handlers.get(
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\dogan\Desktop\test\rpaenv\Lib\site-packages\pystray\_win32.py", line 224, in _on_notify
+    descriptors[index - 1](self)
+  File "C:\Users\dogan\Desktop\test\rpaenv\Lib\site-packages\pystray\_base.py", line 328, in inner
+    callback(self)
+  File "C:\Users\dogan\Desktop\test\rpaenv\Lib\site-packages\pystray\_base.py", line 453, in __call__
+    return self._action(icon, self)
+           ^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\dogan\Desktop\test\QRPAEngine.py", line 25, in on_exit
+    sys.exit(0)
+SystemExit: 0
+2023-12-10 00:54:15,830 - ERROR - An error occurred when calling message handler
+Traceback (most recent call last):
+  File "C:\Users\dogan\Desktop\test\rpaenv\Lib\site-packages\pystray\_win32.py", line 412, in _dispatcher
+    return int(icon._message_handlers.get(
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\dogan\Desktop\test\rpaenv\Lib\site-packages\pystray\_win32.py", line 224, in _on_notify
+    descriptors[index - 1](self)
+  File "C:\Users\dogan\Desktop\test\rpaenv\Lib\site-packages\pystray\_base.py", line 328, in inner
+    callback(self)
+  File "C:\Users\dogan\Desktop\test\rpaenv\Lib\site-packages\pystray\_base.py", line 453, in __call__
+    return self._action(icon, self)
+           ^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\dogan\Desktop\test\QRPAEngine.py", line 25, in on_exit
+    sys.exit(0)
+SystemExit: 0
+2023-12-10 00:54:40,862 - INFO - Connection from ('127.0.0.1', 41066) established.
+2023-12-10 00:54:40,862 - INFO - Received command: stopServerAgent
+2023-12-10 00:54:40,862 - INFO - Executed command: stopServerAgent
+2023-12-10 00:56:15,246 - ERROR - An error occurred when calling message handler
+Traceback (most recent call last):
+  File "C:\Users\dogan\Desktop\test\rpaenv\Lib\site-packages\pystray\_win32.py", line 412, in _dispatcher
+    return int(icon._message_handlers.get(
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\dogan\Desktop\test\rpaenv\Lib\site-packages\pystray\_win32.py", line 201, in _on_notify
+    self()
+  File "C:\Users\dogan\Desktop\test\rpaenv\Lib\site-packages\pystray\_base.py", line 110, in __call__
+    self._menu(self)
+TypeError: 'tuple' object is not callable
+2023-12-10 00:56:22,204 - INFO - Connection from ('127.0.0.1', 41080) established.
+2023-12-10 00:56:22,204 - INFO - Received command: stopServerAgent
+2023-12-10 00:56:22,205 - INFO - Executed command: stopServerAgent
+2023-12-10 00:56:22,208 - ERROR - An error occurred when calling message handler
+Traceback (most recent call last):
+  File "C:\Users\dogan\Desktop\test\rpaenv\Lib\site-packages\pystray\_win32.py", line 412, in _dispatcher
+    return int(icon._message_handlers.get(
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\dogan\Desktop\test\rpaenv\Lib\site-packages\pystray\_win32.py", line 224, in _on_notify
+    descriptors[index - 1](self)
+  File "C:\Users\dogan\Desktop\test\rpaenv\Lib\site-packages\pystray\_base.py", line 328, in inner
+    callback(self)
+  File "C:\Users\dogan\Desktop\test\rpaenv\Lib\site-packages\pystray\_base.py", line 453, in __call__
+    return self._action(icon, self)
+           ^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\dogan\Desktop\test\QRPAEngine.py", line 29, in on_exit
+    sys.exit(0)
+SystemExit: 0
