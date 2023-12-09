@@ -5,5 +5,4 @@ rpaenv
 *.pyc
 *.pyo
 __pycache__/
-
 logs/rpa_agent.log
