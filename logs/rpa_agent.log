@@ -885,3 +885,118 @@
 2023-12-09 00:24:56,002 - INFO - Connection from ('127.0.0.1', 52446) established.
 2023-12-09 00:24:56,002 - INFO - Received command: stopServerAgent
 2023-12-09 00:24:56,002 - INFO - Received command to stop the listener.
+2023-12-09 00:38:16,239 - INFO - Connection from ('127.0.0.1', 52705) established.
+2023-12-09 00:38:16,239 - INFO - Error decoding JSON: Expecting property name enclosed in double quotes: line 4 column 5 (char 52)
+2023-12-09 00:39:51,269 - INFO - Connection from ('127.0.0.1', 52718) established.
+2023-12-09 00:39:51,269 - INFO - Error decoding JSON: Expecting property name enclosed in double quotes: line 4 column 5 (char 52)
+2023-12-09 00:40:17,268 - INFO - Connection from ('127.0.0.1', 52731) established.
+2023-12-09 00:40:17,268 - INFO - Received command: startScreenRecord
+2023-12-09 00:40:17,268 - INFO - Received command to start screen recording.
+2023-12-09 00:40:17,268 - INFO - Received command: findImage
+2023-12-09 00:40:17,338 - INFO - Started screen recording to C:\Users\dogan\Desktop\test\recordings\screen_record_2023-12-09_00-40-17.avi...
+2023-12-09 00:40:18,561 - INFO - Icon not found on the screen.
+2023-12-09 00:40:18,563 - INFO - Icon 'C:\Users\dogan\Desktop\test\snaps\1.png' not found on the screen.
+2023-12-09 00:40:18,563 - INFO - Received command to click on C:\Users\dogan\Desktop\test\snaps\1.png image on the screen.
+2023-12-09 00:40:18,564 - INFO - Received command: findImage
+2023-12-09 00:40:19,806 - INFO - Icon not found on the screen.
+2023-12-09 00:40:19,808 - INFO - Icon 'C:\Users\dogan\Desktop\test\snaps\2.png' not found on the screen.
+2023-12-09 00:40:19,809 - INFO - Received command to click on C:\Users\dogan\Desktop\test\snaps\2.png image on the screen.
+2023-12-09 00:40:19,809 - INFO - Received command: findImage
+2023-12-09 00:40:21,014 - INFO - Icon not found on the screen.
+2023-12-09 00:40:21,016 - INFO - Icon 'C:\Users\dogan\Desktop\test\snaps\3.png' not found on the screen.
+2023-12-09 00:40:21,016 - INFO - Received command to click on C:\Users\dogan\Desktop\test\snaps\3.png image on the screen.
+2023-12-09 00:40:21,016 - INFO - Received command: stopScreenRecord
+2023-12-09 00:40:24,017 - INFO - Received command to stop screen recording.
+2023-12-09 00:40:24,052 - INFO - Stopped screen recording.
+2023-12-09 00:40:31,202 - INFO - Connection from ('127.0.0.1', 52732) established.
+2023-12-09 00:40:31,202 - INFO - Received command: startScreenRecord
+2023-12-09 00:40:31,215 - INFO - Received command to start screen recording.
+2023-12-09 00:40:31,216 - INFO - Received command: findImage
+2023-12-09 00:40:31,217 - INFO - Started screen recording to C:\Users\dogan\Desktop\test\recordings\screen_record_2023-12-09_00-40-31.avi...
+2023-12-09 00:40:32,707 - INFO - Found and double-clicked the icon.
+2023-12-09 00:40:32,707 - INFO - Received command to click on C:\Users\dogan\Desktop\test\snaps\1.png image on the screen.
+2023-12-09 00:40:32,707 - INFO - Received command: findImage
+2023-12-09 00:40:34,152 - INFO - Found and double-clicked the icon.
+2023-12-09 00:40:34,152 - INFO - Received command to click on C:\Users\dogan\Desktop\test\snaps\2.png image on the screen.
+2023-12-09 00:40:34,152 - INFO - Received command: findImage
+2023-12-09 00:40:35,571 - INFO - Found and double-clicked the icon.
+2023-12-09 00:40:35,571 - INFO - Received command to click on C:\Users\dogan\Desktop\test\snaps\3.png image on the screen.
+2023-12-09 00:40:35,571 - INFO - Received command: stopScreenRecord
+2023-12-09 00:40:38,578 - INFO - Received command to stop screen recording.
+2023-12-09 00:40:38,635 - INFO - Stopped screen recording.
+2023-12-09 00:47:30,986 - INFO - Connection from ('127.0.0.1', 52916) established.
+2023-12-09 00:47:30,986 - INFO - Received command: startScreenRecord
+2023-12-09 00:47:30,986 - INFO - Received command to start screen recording.
+2023-12-09 00:47:30,986 - INFO - Received command: findImage
+2023-12-09 00:47:31,001 - INFO - Started screen recording to C:\Users\dogan\Desktop\test\recordings\screen_record_2023-12-09_00-47-30.avi...
+2023-12-09 00:47:32,508 - INFO - Found and double-clicked the icon.
+2023-12-09 00:47:32,510 - INFO - Received command to click on 1.png image on the screen.
+2023-12-09 00:47:32,510 - INFO - Received command: findImage
+2023-12-09 00:47:34,019 - INFO - Found and double-clicked the icon.
+2023-12-09 00:47:34,021 - INFO - Received command to click on 2.png image on the screen.
+2023-12-09 00:47:34,021 - INFO - Received command: findImage
+2023-12-09 00:47:35,509 - INFO - Found and double-clicked the icon.
+2023-12-09 00:47:35,511 - INFO - Received command to click on 3.png image on the screen.
+2023-12-09 00:47:35,511 - INFO - Received command: stopScreenRecord
+2023-12-09 00:47:38,513 - INFO - Received command to stop screen recording.
+2023-12-09 00:47:38,539 - INFO - Stopped screen recording.
+2023-12-09 00:49:10,550 - INFO - Connection from ('127.0.0.1', 53011) established.
+2023-12-09 00:49:10,550 - INFO - Received command: startScreenRecord
+2023-12-09 00:49:10,550 - INFO - Received command to start screen recording.
+2023-12-09 00:49:10,550 - INFO - Received command: findImage
+2023-12-09 00:49:10,550 - INFO - Started screen recording to C:\Users\dogan\Desktop\test\recordings\screen_record_2023-12-09_00-49-10.avi...
+2023-12-09 00:49:11,755 - INFO - Icon not found on the screen.
+2023-12-09 00:49:11,755 - INFO - Icon 'C:\Users\dogan\Desktop\test\snaps\1.png' not found on the screen.
+2023-12-09 00:49:11,755 - INFO - Received command to click on 1.png image on the screen.
+2023-12-09 00:49:11,755 - INFO - Received command: findImage
+2023-12-09 00:49:13,012 - INFO - Icon not found on the screen.
+2023-12-09 00:49:13,012 - INFO - Icon 'C:\Users\dogan\Desktop\test\snaps\2.png' not found on the screen.
+2023-12-09 00:49:13,012 - INFO - Received command to click on 2.png image on the screen.
+2023-12-09 00:49:13,012 - INFO - Received command: findImage
+2023-12-09 00:49:14,234 - INFO - Icon not found on the screen.
+2023-12-09 00:49:14,234 - INFO - Icon 'C:\Users\dogan\Desktop\test\snaps\3.png' not found on the screen.
+2023-12-09 00:49:14,234 - INFO - Received command to click on 3.png image on the screen.
+2023-12-09 00:49:14,234 - INFO - Received command: stopScreenRecord
+2023-12-09 00:49:17,247 - INFO - Received command to stop screen recording.
+2023-12-09 00:49:17,319 - INFO - Stopped screen recording.
+2023-12-09 00:49:35,618 - INFO - Connection from ('127.0.0.1', 53050) established.
+2023-12-09 00:49:35,618 - INFO - Received command: startScreenRecord
+2023-12-09 00:49:35,618 - INFO - Received command to start screen recording.
+2023-12-09 00:49:35,618 - INFO - Received command: findImage
+2023-12-09 00:49:35,618 - INFO - Started screen recording to C:\Users\dogan\Desktop\test\recordings\screen_record_2023-12-09_00-49-35.avi...
+2023-12-09 00:49:36,824 - INFO - Icon not found on the screen.
+2023-12-09 00:49:36,826 - INFO - Icon 'C:\Users\dogan\Desktop\test\snaps\1.png' not found on the screen.
+2023-12-09 00:49:36,827 - INFO - Received command to click on 1.png image on the screen.
+2023-12-09 00:49:36,827 - INFO - Received command: findImage
+2023-12-09 00:49:38,093 - INFO - Icon not found on the screen.
+2023-12-09 00:49:38,108 - INFO - Icon 'C:\Users\dogan\Desktop\test\snaps\2.png' not found on the screen.
+2023-12-09 00:49:38,108 - INFO - Received command to click on 2.png image on the screen.
+2023-12-09 00:49:38,108 - INFO - Received command: findImage
+2023-12-09 00:49:39,297 - INFO - Icon not found on the screen.
+2023-12-09 00:49:39,297 - INFO - Icon 'C:\Users\dogan\Desktop\test\snaps\3.png' not found on the screen.
+2023-12-09 00:49:39,297 - INFO - Received command to click on 3.png image on the screen.
+2023-12-09 00:49:39,297 - INFO - Received command: stopScreenRecord
+2023-12-09 00:49:42,307 - INFO - Received command to stop screen recording.
+2023-12-09 00:49:42,367 - INFO - Stopped screen recording.
+2023-12-09 00:51:49,778 - INFO - Connection from ('127.0.0.1', 53106) established.
+2023-12-09 00:51:49,778 - INFO - Received command: excelToPandas
+2023-12-09 00:51:49,794 - INFO - Received command to convert C:\Users\dogan\Desktop\test\TestExcel.xlsx to Pandas DataFrame.
+2023-12-09 00:51:49,795 - INFO - Received command: manipulateData
+2023-12-09 00:51:49,818 - INFO - Received command to manipulate data with ID: 1324234.
+2023-12-09 00:52:32,292 - INFO - Connection from ('127.0.0.1', 53113) established.
+2023-12-09 00:52:32,292 - INFO - Received command: stopServerAgent
+2023-12-09 00:52:32,292 - INFO - Received command to stop the listener.
+2023-12-09 00:52:39,957 - INFO - Connection from ('127.0.0.1', 53114) established.
+2023-12-09 00:52:39,958 - INFO - Received command: excelToPandas
+2023-12-09 00:52:39,970 - INFO - Received command to convert C:\Users\dogan\Desktop\test\TestExcel.xlsx to Pandas DataFrame.
+2023-12-09 00:52:39,970 - INFO - Received command: manipulateData
+2023-12-09 00:52:39,993 - INFO - Received command to manipulate data with ID: 1324234.
+2023-12-09 00:54:04,326 - INFO - Connection from ('127.0.0.1', 53123) established.
+2023-12-09 00:54:04,326 - INFO - Received command: stopServerAgent
+2023-12-09 00:54:04,326 - INFO - Received command to stop the listener.
+2023-12-09 01:27:42,913 - INFO - Connection from ('127.0.0.1', 53772) established.
+2023-12-09 01:27:42,913 - INFO - Received command: stopServerAgent
+2023-12-09 01:27:42,913 - INFO - Received command to stop the listener.
+2023-12-09 20:07:53,777 - INFO - Connection from ('127.0.0.1', 50794) established.
+2023-12-09 20:07:53,779 - INFO - Received command: stopServerAgent
+2023-12-09 20:07:53,779 - INFO - Received command to stop the listener.

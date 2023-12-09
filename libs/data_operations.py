@@ -4,19 +4,26 @@ from common_imports import pandas as pd, os
 from data_store import DataStore
 from libs.logging_utils import log_message
 from openpyxl.utils import get_column_letter
+from data_manipulator import DataManipulator
 
+
+# Create an instance of DataManipulator
+manipulator = DataManipulator()
+
+# Load the plugin
+manipulator.load_plugin("./plugins/trtoeng.py")
 
 def read_data_from_store(data_id):
     data_store = DataStore()
     return data_store.read_data(data_id)
 
 
-def manipulate_data(data):
-    if data is not None and not data.empty:
-        manipulated_data = data.copy()
-        manipulated_data["ENGLISH"] = manipulated_data["TURKISH"]
-        return manipulated_data
-    return None
+# def manipulate_data(data):
+#     if data is not None and not data.empty:
+#         manipulated_data = data.copy()
+#         manipulated_data["ENGLISH"] = manipulated_data["TURKISH"] + "deneme"
+#         return manipulated_data
+#     return None
 
 
 def change_file_permissions(file_path):
@@ -61,7 +68,9 @@ def manipulate_and_write_data(cmd):
     print("Original Data")
     print(data)
 
-    manipulated_data = manipulate_data(data)
+    # manipulated_data = manipulate_data(data)
+    manipulated_data = manipulator.manipulate_data(data)
+
     if manipulated_data is not None:
         print("Manipulated Data")
         print(manipulated_data)
