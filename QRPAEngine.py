@@ -1,3 +1,4 @@
+from libs.socket_operations import start_socket_listener
 import sys
 import os
 
@@ -8,7 +9,10 @@ utils_path = os.path.join(libs_path, 'utils')
 sys.path.append(libs_path)
 sys.path.append(utils_path)
 
-from libs.socket_operations import start_socket_listener
+
+def main():
+    start_socket_listener()
+
 
 if __name__ == "__main__":
-    start_socket_listener()
+    main()

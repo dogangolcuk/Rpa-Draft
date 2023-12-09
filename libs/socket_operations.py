@@ -1,6 +1,6 @@
 from common_imports import socket, json
 from libs.data_operations import manipulate_and_write_data
-from libs.excel_operations import  excel_to_pandas
+from libs.excel_operations import excel_to_pandas
 from libs.screen_operations import handle_screen_record, stop_screen_record
 from libs.image_operations import process_image_commands
 from libs.logging_utils import log_message
@@ -46,7 +46,8 @@ def start_socket_listener():
                                 cmd['filePath']} to Pandas DataFrame.')
                 elif cmd["command"] == "manipulateData":
                     manipulate_and_write_data(cmd)
-                    log_message(f'Received command to manipulate data with ID: {cmd["getDataId"]}.')
+                    log_message(f'Received command to manipulate data with ID: {
+                                cmd["getDataId"]}.')
         except json.JSONDecodeError as e:
             log_message(f"Error decoding JSON: {e}")
         except Exception as ex:

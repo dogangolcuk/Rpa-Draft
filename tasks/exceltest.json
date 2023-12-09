@@ -7,8 +7,8 @@
   },
   {
     "getDataId": "1324234",
+    "usePLugin": "trtoeng",
     "command": "manipulateData",
-    "filePath": "C:\\Users\\dogan\\Desktop\\test\\TestExcel1.xlsx",
-    "usePLugin":"trtoeng"
+    "filePath": "C:\\Users\\dogan\\Desktop\\test\\TestExcel1.xlsx"
   }
 ]
