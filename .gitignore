@@ -2,7 +2,7 @@ dist
 build
 recordings
 rpaenv
+logs/
 *.pyc
 *.pyo
 __pycache__/
-/logs/rpa_agent.log
