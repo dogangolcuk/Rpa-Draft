@@ -17,6 +17,7 @@ sys.path.append(UTILS_PATH)
 
 # Custom imports
 from libs.socket_operations import start_listener_flag, stop_listener_flag
+from libs.logging_utils import log_message
 
 socket_thread = None
 
@@ -26,6 +27,7 @@ def start_socket(icon, item):
         socket_thread = threading.Thread(target=start_listener_flag)
         socket_thread.daemon = True
         socket_thread.start()
+        log_message("Socket started from systray.")
         icon.menu = update_menu()
     else:
         print("Socket already running.")
@@ -36,6 +38,7 @@ def stop_socket(icon, item):
         stop_listener_flag(None)
         socket_thread = None
         icon.menu = update_menu()
+        log_message("Socket stopped from systray.")
         print("Socket stopped.")
     else:
         print("Socket is not running.")
@@ -43,7 +46,8 @@ def stop_socket(icon, item):
 def on_exit(icon, item):
     stop_listener_flag(None)
     icon.stop()
-    sys.exit(0)
+    log_message("Exiting...")
+    # sys.exit(0)
 
 def show_about_dialog():
     messagebox.showinfo("About", "POC of QRPA Engine app...")
