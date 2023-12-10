@@ -2,6 +2,8 @@ import sys
 import os
 import pystray
 import threading
+import tkinter as tk
+from tkinter import messagebox
 from PIL import Image
 
 
@@ -43,21 +45,25 @@ def on_exit(icon, item):
     icon.stop()
     sys.exit(0)
 
+def show_about_dialog():
+    messagebox.showinfo("About", "POC of QRPA Engine app...")
+    
 def on_about(icon, item):
-    print("POC of QRPA Engine app...")
+    show_about_dialog()
+    # print("POC of QRPA Engine app...")
 
 def update_menu():
     global socket_thread
     menu_items = [
-        pystray.MenuItem("Start Socket", start_socket),
-        pystray.MenuItem("Stop Socket", stop_socket),
+        pystray.MenuItem("Start", start_socket),
+        pystray.MenuItem("Stop", stop_socket),
         pystray.MenuItem("About", on_about),
         pystray.MenuItem("Exit", on_exit)
         
     ]
 
-    start_socket_text = "Start Socket (Running)" if socket_thread and socket_thread.is_alive() else "Start Socket"
-    stop_socket_text = "Stop Socket (Not Running)" if not start_socket_text == "Start Socket (Running)" else "Stop Socket"
+    start_socket_text = "Start (Running)" if socket_thread and socket_thread.is_alive() else "Start"
+    stop_socket_text = "Stop (Not Running)" if not start_socket_text == "Start (Running)" else "Stop"
     
     menu_items[0] = pystray.MenuItem(start_socket_text, start_socket)
     menu_items[1] = pystray.MenuItem(stop_socket_text, stop_socket)
