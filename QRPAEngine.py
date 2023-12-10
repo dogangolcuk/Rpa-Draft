@@ -19,7 +19,7 @@ socket_thread = None
 def start_socket(icon, item):
     global socket_thread
     if socket_thread is None or not socket_thread.is_alive():
-        socket_thread = threading.Thread(target=start_listener_flag())
+        socket_thread = threading.Thread(target=start_listener_flag)
         socket_thread.daemon = True
         socket_thread.start()
         icon.menu = update_menu()
@@ -74,7 +74,7 @@ def main(icon):
     icon.visible = True
     # start_socket(icon,icon.menu)
 if __name__ == "__main__":
-    icon_path = "icons8-robot-48.png"  # Replace with your icon path
+    icon_path = "icons8-robot-94.png"  # Replace with your icon path
     icon = pystray.Icon("MyApp", Image.open(icon_path), "MyApp")
     icon.menu = update_menu()
     icon.title = "MyApp"
