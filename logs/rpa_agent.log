@@ -2847,3 +2847,87 @@ Traceback (most recent call last):
   File "C:\Users\dogan\Desktop\test\QRPAEngine.py", line 51, in on_exit
     sys.exit(0)
 SystemExit: 0
+2023-12-10 13:27:21,475 - INFO - Listening for commands...
+2023-12-10 13:27:39,599 - INFO - Connection from ('127.0.0.1', 44398) established.
+2023-12-10 13:27:39,599 - INFO - Received command: excelToPandas
+2023-12-10 13:27:39,617 - INFO - Executed command: excelToPandas
+2023-12-10 13:27:39,617 - INFO - Received command: manipulateData
+2023-12-10 13:27:39,643 - INFO - Executed command: manipulateData
+2023-12-10 13:27:39,644 - INFO - Listening for commands...
+2023-12-10 13:27:42,305 - INFO - Connection from ('127.0.0.1', 44400) established.
+2023-12-10 13:27:42,305 - INFO - Received command: excelToPandas
+2023-12-10 13:27:42,317 - INFO - Executed command: excelToPandas
+2023-12-10 13:27:42,318 - INFO - Received command: manipulateData
+2023-12-10 13:27:42,334 - INFO - Executed command: manipulateData
+2023-12-10 13:27:42,334 - INFO - Listening for commands...
+2023-12-10 13:27:43,604 - INFO - Connection from ('127.0.0.1', 44401) established.
+2023-12-10 13:27:43,604 - INFO - Received command: excelToPandas
+2023-12-10 13:27:43,616 - INFO - Executed command: excelToPandas
+2023-12-10 13:27:43,616 - INFO - Received command: manipulateData
+2023-12-10 13:27:43,633 - INFO - Executed command: manipulateData
+2023-12-10 13:27:43,633 - INFO - Listening for commands...
+2023-12-10 13:27:44,905 - INFO - Connection from ('127.0.0.1', 44402) established.
+2023-12-10 13:27:44,905 - INFO - Received command: excelToPandas
+2023-12-10 13:27:44,918 - INFO - Executed command: excelToPandas
+2023-12-10 13:27:44,918 - INFO - Received command: manipulateData
+2023-12-10 13:27:44,934 - INFO - Executed command: manipulateData
+2023-12-10 13:27:44,934 - INFO - Listening for commands...
+2023-12-10 13:27:46,775 - INFO - Connection from ('127.0.0.1', 44403) established.
+2023-12-10 13:27:46,775 - INFO - Received command: excelToPandas
+2023-12-10 13:27:46,788 - INFO - Executed command: excelToPandas
+2023-12-10 13:27:46,788 - INFO - Received command: manipulateData
+2023-12-10 13:27:46,802 - INFO - Executed command: manipulateData
+2023-12-10 13:27:46,802 - INFO - Listening for commands...
+2023-12-10 13:27:49,051 - INFO - Connection from ('127.0.0.1', 44404) established.
+2023-12-10 13:27:49,051 - INFO - Received command: stopServerListener
+2023-12-10 13:27:49,051 - INFO - Executed command: stopServerListener
+2023-12-10 13:28:28,756 - INFO - Listening for commands...
+2023-12-10 13:28:32,381 - INFO - Connection from ('127.0.0.1', 44414) established.
+2023-12-10 13:28:32,381 - INFO - Received command: excelToPandas
+2023-12-10 13:28:32,395 - INFO - Executed command: excelToPandas
+2023-12-10 13:28:32,395 - INFO - Received command: manipulateData
+2023-12-10 13:28:32,411 - INFO - Executed command: manipulateData
+2023-12-10 13:28:32,411 - INFO - Listening for commands...
+2023-12-10 13:28:35,702 - INFO - Connection from ('127.0.0.1', 44415) established.
+2023-12-10 13:28:35,702 - INFO - Received command: stopServerListener
+2023-12-10 13:28:35,702 - INFO - Executed command: stopServerListener
+2023-12-10 13:29:06,300 - INFO - Listening for commands...
+2023-12-10 13:29:15,786 - INFO - Connection from ('127.0.0.1', 44422) established.
+2023-12-10 13:29:15,786 - INFO - Received command: excelToPandas
+2023-12-10 13:29:15,803 - INFO - Executed command: excelToPandas
+2023-12-10 13:29:15,803 - INFO - Received command: manipulateData
+2023-12-10 13:29:15,825 - INFO - Executed command: manipulateData
+2023-12-10 13:29:15,825 - INFO - Listening for commands...
+2023-12-10 13:29:18,640 - INFO - Connection from ('127.0.0.1', 44425) established.
+2023-12-10 13:29:18,640 - INFO - Received command: stopServerListener
+2023-12-10 13:29:18,640 - INFO - Executed command: stopServerListener
+2023-12-10 13:29:42,373 - ERROR - An error occurred when calling message handler
+Traceback (most recent call last):
+  File "C:\Users\dogan\Desktop\test\rpaenv\Lib\site-packages\pystray\_win32.py", line 412, in _dispatcher
+    return int(icon._message_handlers.get(
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\dogan\Desktop\test\rpaenv\Lib\site-packages\pystray\_win32.py", line 201, in _on_notify
+    self()
+  File "C:\Users\dogan\Desktop\test\rpaenv\Lib\site-packages\pystray\_base.py", line 110, in __call__
+    self._menu(self)
+TypeError: 'tuple' object is not callable
+2023-12-10 13:29:44,511 - ERROR - An error occurred when calling message handler
+Traceback (most recent call last):
+  File "C:\Users\dogan\Desktop\test\rpaenv\Lib\site-packages\pystray\_win32.py", line 412, in _dispatcher
+    return int(icon._message_handlers.get(
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\dogan\Desktop\test\rpaenv\Lib\site-packages\pystray\_win32.py", line 201, in _on_notify
+    self()
+  File "C:\Users\dogan\Desktop\test\rpaenv\Lib\site-packages\pystray\_base.py", line 110, in __call__
+    self._menu(self)
+TypeError: 'tuple' object is not callable
+2023-12-10 13:29:46,108 - ERROR - An error occurred when calling message handler
+Traceback (most recent call last):
+  File "C:\Users\dogan\Desktop\test\rpaenv\Lib\site-packages\pystray\_win32.py", line 412, in _dispatcher
+    return int(icon._message_handlers.get(
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\dogan\Desktop\test\rpaenv\Lib\site-packages\pystray\_win32.py", line 201, in _on_notify
+    self()
+  File "C:\Users\dogan\Desktop\test\rpaenv\Lib\site-packages\pystray\_base.py", line 110, in __call__
+    self._menu(self)
+TypeError: 'tuple' object is not callable
