@@ -2931,3 +2931,28 @@ Traceback (most recent call last):
   File "C:\Users\dogan\Desktop\test\rpaenv\Lib\site-packages\pystray\_base.py", line 110, in __call__
     self._menu(self)
 TypeError: 'tuple' object is not callable
+2023-12-10 13:31:11,129 - ERROR - An error occurred when calling message handler
+Traceback (most recent call last):
+  File "C:\Users\dogan\Desktop\test\rpaenv\Lib\site-packages\pystray\_win32.py", line 412, in _dispatcher
+    return int(icon._message_handlers.get(
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\dogan\Desktop\test\rpaenv\Lib\site-packages\pystray\_win32.py", line 201, in _on_notify
+    self()
+  File "C:\Users\dogan\Desktop\test\rpaenv\Lib\site-packages\pystray\_base.py", line 110, in __call__
+    self._menu(self)
+TypeError: 'tuple' object is not callable
+2023-12-10 13:31:15,114 - ERROR - An error occurred when calling message handler
+Traceback (most recent call last):
+  File "C:\Users\dogan\Desktop\test\rpaenv\Lib\site-packages\pystray\_win32.py", line 412, in _dispatcher
+    return int(icon._message_handlers.get(
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\dogan\Desktop\test\rpaenv\Lib\site-packages\pystray\_win32.py", line 224, in _on_notify
+    descriptors[index - 1](self)
+  File "C:\Users\dogan\Desktop\test\rpaenv\Lib\site-packages\pystray\_base.py", line 328, in inner
+    callback(self)
+  File "C:\Users\dogan\Desktop\test\rpaenv\Lib\site-packages\pystray\_base.py", line 453, in __call__
+    return self._action(icon, self)
+           ^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\dogan\Desktop\test\QRPAEngine.py", line 51, in on_exit
+    sys.exit(0)
+SystemExit: 0
