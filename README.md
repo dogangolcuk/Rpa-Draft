@@ -33,3 +33,4 @@
 - 07.12.2023: Log mechanism, seperate main to libs , find image in image
 - 08.12.2023: Workflow mechanism , tasks and snaps folders added, record screen flow added.
 - 09.12.2023: Plugin system added. Flows send in Json format. sendflow.py added to send tasks to server.
+- 10.12.2023: Systemtray added to start ,stop server.
