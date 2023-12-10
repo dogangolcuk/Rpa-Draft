@@ -12,8 +12,10 @@ class DataManipulator:
             spec.loader.exec_module(self.plugin_module)
             self.manipulate_data_function = getattr(self.plugin_module, "manipulate_data")
             print(f"Plugin '{module_path}' loaded successfully.")
+            return True
         except Exception as e:
             print(f"Error loading plugin: {e}")
+            return False
 
     def manipulate_data(self, data):
         try:

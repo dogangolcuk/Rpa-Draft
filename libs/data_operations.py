@@ -6,6 +6,9 @@ from data_store import DataStore
 from libs.logging_utils import log_message
 from openpyxl.utils import get_column_letter
 from data_manipulator import DataManipulator
+from libs.logging_utils import log_message
+from config import plugins_dir
+
 
 
 # Create an instance of DataManipulator
@@ -66,15 +69,29 @@ def manipulate_and_write_data(cmd):
     data = read_data_from_store(cmd["getDataId"])
     print("Original Data")
     print(data)
+    
     # Load the plugin
-    manipulator.load_plugin("./plugins/" + cmd["usePLugin"] + ".py")
+    pluginName = plugins_dir +"\\"+ cmd["usePLugin"]+ ".py"
+    print(pluginName)
+    # plugin = manipulator.load_plugin(pluginName)
+    plugin = manipulator.load_plugin(pluginName)
+    
 
-    # manipulated_data = manipulate_data(data)
-    manipulated_data = manipulator.manipulate_data(data)
+    if plugin:
+        try:
+            # Manipulate data using the loaded plugin
+            manipulated_data = manipulator.manipulate_data(data)
+            if manipulated_data is not None:
+                print("Manipulated Data")
+                print(manipulated_data)
 
-    if manipulated_data is not None:
-        print("Manipulated Data")
-        print(manipulated_data)
-
-        change_file_permissions(cmd["filePath"])
-        write_to_excel_new_sheet(manipulated_data, cmd["filePath"])
+                change_file_permissions(cmd["filePath"])
+                write_to_excel_new_sheet(manipulated_data, cmd["filePath"])
+            else:
+                log_message("Failed to manipulate data: Manipulated data is None")
+        except Exception as e:
+            log_message(f"Failed to manipulate data with plugin '{cmd['usePLugin']}': {e}")
+            print("Error occurred during data manipulation.")
+    else:
+        log_message(f"Failed to load plugin '{cmd['usePLugin']}'")
+        print(f"Failed to load plugin '{cmd['usePLugin']}'. Data manipulation aborted.")
