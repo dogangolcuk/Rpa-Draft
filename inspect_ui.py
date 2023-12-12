@@ -65,12 +65,26 @@ def get_next(element_info):
 
 # print_child_list_detailed(get_next(element_info()))
 
-for node in get_next(element_info()) :
-    # print(node["parent"])
-    parent = node ["parent"]
+# for node in get_next(element_info()) :
+#     # print(node["parent"])
+#     parent = node ["parent"]
+#     child = node["child"]
+#     # print(node["child"])
+#     print("---------------------------------------------------------")
+#     print(f"Parent: {parent}")
+#     print(f"Control type: {child.control_type}")
+#     print(f"Name: {child.name}")
+#     print(f"Class Name: {child.class_name}")
+#     print(f"Rectangle: {child.rectangle}")
+#     print(f"ID: {id(child)}")
+#     print("---------------------------------------------------------")
+    
+    
+for index, node in enumerate(get_next(element_info()), start=1):
+    parent = node["parent"]
     child = node["child"]
-    # print(node["child"])
-    print("---------------------------------------------------------")
+    print(str(index)+".---------------------------------------------------------")
+    print(f"Element Number: {index}")
     print(f"Parent: {parent}")
     print(f"Control type: {child.control_type}")
     print(f"Name: {child.name}")
@@ -78,6 +92,4 @@ for node in get_next(element_info()) :
     print(f"Rectangle: {child.rectangle}")
     print(f"ID: {id(child)}")
     print("---------------------------------------------------------")
-    
-    
 
