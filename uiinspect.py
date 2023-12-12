@@ -18,7 +18,7 @@ def element_info(backend_name="uia"):
     element_info = selected_backend.element_info_class()
     # Now you have the element_info_class instance ready for usage
     # You might want to return it or perform operations on it
-    
+
     # Example: print some attributes of the element_info_class
     # print(f"Backend: {backend_name}")
     # print(f"Control types: {element_info.control_type}")
@@ -28,15 +28,56 @@ def element_info(backend_name="uia"):
 
 # element_info(backend_name="uia")
 
+
 def get_next(element_info):
+    # child_list = []
+    # for child in element_info.children():
+    #     child_list.append(element_info.name,child)
+    # return child_list
+    result = []
+    
     for child in element_info.children():
-        print("---------------------------------------------------------")
-        print(f"Parent: {element_info.name}")
-        print(f"Control type: {child.control_type}")
-        print(f"Name: {child.name}")
-        print (f"Class Name: {child.class_name}")
-        print(f"ID: {id(child)}")
-        print("---------------------------------------------------------")
+        # Create a dictionary for each child-parent pair
+        child_dict = {
+            'child': child,
+            'parent': element_info.name
+        }
+        result.append(child_dict)
+    
+    return result
+
+# def print_child_list(child_list):
+#     for child in child_list:
+#         print(child)
         
+# def print_child_list_detailed(child_list):
+#     for child in child_list:
+#         print("---------------------------------------------------------")
+#         print(f"Parent: {element_info.name}")
+#         print(f"Control type: {child.control_type}")
+#         print(f"Name: {child.name}")
+#         print(f"Class Name: {child.class_name}")
+#         print(f"Rectangle: {child.rectangle}")
+#         print(f"ID: {id(child)}")
+#         print("---------------------------------------------------------")
         
-get_next(element_info())
+# # print_child_list(get_next(element_info()))
+
+# print_child_list_detailed(get_next(element_info()))
+
+for node in get_next(element_info()) :
+    # print(node["parent"])
+    parent = node ["parent"]
+    child = node["child"]
+    # print(node["child"])
+    print("---------------------------------------------------------")
+    print(f"Parent: {parent}")
+    print(f"Control type: {child.control_type}")
+    print(f"Name: {child.name}")
+    print(f"Class Name: {child.class_name}")
+    print(f"Rectangle: {child.rectangle}")
+    print(f"ID: {id(child)}")
+    print("---------------------------------------------------------")
+    
+    
+
