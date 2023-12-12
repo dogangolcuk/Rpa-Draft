@@ -5,6 +5,7 @@ from libs.excel_operations import excel_to_pandas
 from libs.screen_operations import handle_screen_record, stop_screen_record
 from libs.image_operations import process_image_commands
 from libs.logging_utils import log_message
+from libs.ui_interact import find_and_double_click
 
 stop_listener = False
 listening_message_displayed = False
@@ -37,6 +38,7 @@ COMMAND_DISPATCHER = {
     "startServerListener": start_listener_flag,
     "excelToPandas": excel_to_pandas,
     "manipulateData": manipulate_and_write_data,
+    "clickIcon" : find_and_double_click
 }
 
 

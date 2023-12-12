@@ -83,13 +83,13 @@ def start_screen_record():
         log_message(f"Error during screen recording: {e}")
 
 
-def stop_screen_record():
+def stop_screen_record(cmd):
     time.sleep(3.0)
     global is_recording
     is_recording = False
 
 
-def handle_screen_record():
+def handle_screen_record(cmd):
     global is_recording
     if is_recording:
         return

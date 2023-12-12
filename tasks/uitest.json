@@ -1,0 +1,13 @@
+[
+  {
+    "command": "startScreenRecord"
+  },
+  {
+    "command": "clickIcon",
+    "title":"Spotify",
+    "control_type":"ListItem"
+  },
+  {
+    "command": "stopScreenRecord"
+  }
+]
