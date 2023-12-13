@@ -67,6 +67,26 @@ Follow these steps to set up the programming environment:
 
 Your contributions are welcome! Please follow the contribution guidelines outlined in CONTRIBUTING.md to contribute to this project.
 
+- Create SSH key for GitHub
+    > ssh-keygen
+
+- Copy the public key to GitHub account
+  > cat .\.ssh\id_rsa.pub
+
+- Set remote GitHub URL
+    > git remote set-url origin <git@github.com>:qsoft-git/zozi-automate-agent-arge.git
+    > git remote add personal <git@github.com>:dogangolcuk/testRPA_1.git
+
+- Push to Remote
+    > git push personal master
+    > git push origin master
+
+- Now you can push your changes to GitHub
+  > git add .
+  > git commit -m "Initial commit"
+  > git push origin master
+  > git push personal master
+
 ## License
 
 This project is licensed under the [LICENSE NAME] - see the [LICENSE.md](LICENSE.md) file for details.
@@ -74,11 +94,3 @@ This project is licensed under the [LICENSE NAME] - see the [LICENSE.md](LICENSE
 ## QSOFT
 
 This project is maintained by QSOFT Team, a software development company specializing in innovative automation solutions. For inquiries or collaborations, please contact us at [contact@qsoft.com.tr](mailto:contact@qsoft.com).
-
-cat .\.ssh\id_rsa.pub
-git remote set-url origin git@github.com:qsoft-git/zozi-automate-agent-arge.git
-git remote add personal git@github.com:dogangolcuk/testRPA_1.git
-git push personal main
-git push origin main
-
-12.13.2023
