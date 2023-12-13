@@ -73,4 +73,10 @@ This project is licensed under the [LICENSE NAME] - see the [LICENSE.md](LICENSE
 
 ## QSOFT
 
-This project is maintained by QSOFT Team, a software development company specializing in innovative automation solutions. For inquiries or collaborations, please contact us at [contact@qsoft.com.tr](mailto:contact@qsoft.com). Test
+This project is maintained by QSOFT Team, a software development company specializing in innovative automation solutions. For inquiries or collaborations, please contact us at [contact@qsoft.com.tr](mailto:contact@qsoft.com).
+
+cat .\.ssh\id_rsa.pub
+git remote set-url origin git@github.com:qsoft-git/zozi-automate-agent-arge.git
+git remote add personal git@github.com:dogangolcuk/testRPA_1.git
+git push personal main
+git push origin main
