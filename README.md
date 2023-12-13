@@ -80,3 +80,4 @@ git remote set-url origin git@github.com:qsoft-git/zozi-automate-agent-arge.git
 git remote add personal git@github.com:dogangolcuk/testRPA_1.git
 git push personal main
 git push origin main
+
