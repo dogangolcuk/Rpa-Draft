@@ -73,4 +73,4 @@ This project is licensed under the [LICENSE NAME] - see the [LICENSE.md](LICENSE
 
 ## QSOFT
 
-This project is maintained by QSOFT Team, a software development company specializing in innovative automation solutions. For inquiries or collaborations, please contact us at [contact@qsoft.com.tr](mailto:contact@qsoft.com).
+This project is maintained by QSOFT Team, a software development company specializing in innovative automation solutions. For inquiries or collaborations, please contact us at [contact@qsoft.com.tr](mailto:contact@qsoft.com). Test
