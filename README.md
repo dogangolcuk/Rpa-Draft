@@ -74,7 +74,7 @@ Your contributions are welcome! Please follow the contribution guidelines outlin
   > cat .\.ssh\id_rsa.pub
 
 - Set remote GitHub URL
-    > git remote set-url origin <git@github.com>:qsoft-git/zozi-automate-agent-arge.git
+
     > git remote add personal <git@github.com>:dogangolcuk/testRPA_1.git
 
 - Push to Remote
