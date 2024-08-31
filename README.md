@@ -86,11 +86,3 @@ Your contributions are welcome! Please follow the contribution guidelines outlin
   > git commit -m "Initial commit"
   > git push origin master
   > git push personal master
-
-## License
-
-This project is licensed under the [LICENSE NAME] - see the [LICENSE.md](LICENSE.md) file for details.
-
-## QSOFT
-
-This project is maintained by QSOFT Team, a software development company specializing in innovative automation solutions. For inquiries or collaborations, please contact us at [contact@qsoft.com.tr](mailto:contact@qsoft.com).
