@@ -1,18 +1,18 @@
-# QRPA Engine (Temporary Name)
+# RPA Engine (Temporary Name)
 
 ## Overview
 
-Introducing QRPA Engine, a sophisticated Python framework designed for automation purposes. This powerful engine aims to replicate human-like actions on a computer system while efficiently executing a wide range of tasks. Leveraging APIs whenever possible, QRPA Engine prioritizes seamless and discreet task execution.
+Introducing RPA Engine, a sophisticated Python framework designed for automation purposes. This powerful engine aims to replicate human-like actions on a computer system while efficiently executing a wide range of tasks. Leveraging APIs whenever possible, RPA Engine prioritizes seamless and discreet task execution.
 
 ## Detailed Description
 
-Introducing QRPA Engine, a sophisticated Python framework designed for automation purposes. Its primary objective is to emulate human-like actions on a computer system while efficiently executing various tasks. Leveraging APIs whenever possible, QRPA Engine prioritizes seamless task execution in a silent manner.
+Introducing RPA Engine, a sophisticated Python framework designed for automation purposes. Its primary objective is to emulate human-like actions on a computer system while efficiently executing various tasks. Leveraging APIs whenever possible, RPA Engine prioritizes seamless task execution in a silent manner.
 
 This powerful framework orchestrates tasks in a sequential flow, facilitating the smooth transfer of data between these tasks. Each task incorporates data manipulation capabilities via externally injected plugins, ensuring enhanced flexibility and extensibility. The logging mechanism captures comprehensive step-by-step details, offering invaluable insights for debugging purposes.
 
-For RPA developers seeking comprehensive oversight, QRPA Engine provides the option to record the screen during specific task executions, allowing for detailed monitoring from initiation to completion. The plugin system within QRPA Engine empowers users to load diverse plugins, further augmenting data manipulation capabilities and task flexibility.
+For RPA developers seeking comprehensive oversight, RPA Engine provides the option to record the screen during specific task executions, allowing for detailed monitoring from initiation to completion. The plugin system within RPA Engine empowers users to load diverse plugins, further augmenting data manipulation capabilities and task flexibility.
 
-Sending tasks to QRPA Engine is streamlined through the utilization of sendflow.py, enabling a seamless and efficient interaction with the framework. QRPA Engine stands as a comprehensive and adaptable solution for automating intricate tasks with precision and reliability.
+Sending tasks to RPA Engine is streamlined through the utilization of sendflow.py, enabling a seamless and efficient interaction with the framework. RPA Engine stands as a comprehensive and adaptable solution for automating intricate tasks with precision and reliability.
 
 ## Features
 
@@ -42,7 +42,7 @@ Follow these steps to set up the programming environment:
     - Check for outdated packages: `pip list --outdated` or `pip-check`
     - Update packages: `pip install -U pip` and `pip install -U -r requirements.txt`
 5. **Running the Script:**
-    - Start the engine: `python3 QRPAEngine.py`
+    - Start the engine: `python3 RPAEngine.py`
     - Send tasks using `sendflow.py`: `python3 sendflow.py tasks/task.json`
 
 ## Roadmap & History ⏲️
